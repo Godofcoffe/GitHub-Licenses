@@ -1,9 +1,9 @@
-This is free and unencumbered software released into the public domain.
+Este é um software livre e livre de encargos, lançado em domínio público.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+Qualquer pessoa é livre para copiar, modificar, publicar, usar, compilar, vender ou distribuir este software, seja na forma de código fonte ou como um binário compilado, para qualquer finalidade, comercial ou não comercial, e por qualquer meio.
 
-In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
+Em jurisdições que reconhecem leis de direitos autorais, o autor ou autores deste software dedicam todo e qualquer interesse em direitos autorais do software ao domínio público. Fazemos esta dedicação para o benefício do público em geral e em detrimento de nossos herdeiros e sucessores. Pretendemos que esta dedicação seja um ato de renúncia explícita e perpétua de todos os direitos presentes e futuros a este software sob as leis de direitos autorais.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM QUALQUER TIPO DE GARANTIA, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIABILIDADE, ADEQUAÇÃO A UM DETERMINADO PROPÓSITO E NÃO VIOLAÇÃO. EM NENHUMA HIPÓTESE OS AUTORES SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANO OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA, DECORRENTE, FORA OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS TRANSAÇÕES NO SOFTWARE.
 
-For more information, please refer to https://unlicense.org
+Para maiores informações, favor consultar https://unlicense.org

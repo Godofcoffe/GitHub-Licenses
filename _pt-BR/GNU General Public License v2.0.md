@@ -1,219 +1,219 @@
                 GNU GENERAL PUBLIC LICENSE
                    Version 2, June 1991
 
-Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Todos têm permissão para copiar e distribuir cópias literais deste documento de licença, mas não é permitido modificá-lo.
 
-                        Preamble
+                        Preâmbulo
 
-The licenses for most software are designed to take away your freedom to share and change it. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users. This General Public License applies to most of the Free Software Foundation's software and to any other program whose authors commit to using it. (Some other Free Software Foundation software is covered by the GNU Lesser General Public License instead.) You can apply it to your programs, too.
+As licenças para a maioria dos softwares são projetadas para tirar sua liberdade de compartilhá-lo e modificá-lo. Em contraste, a Licença Pública Geral GNU destina-se a garantir sua liberdade de compartilhar e alterar software livre - para garantir que o software seja livre para todos os seus usuários. Esta Licença Pública Geral aplica-se à maioria do software da Free Software Foundation e a qualquer outro programa cujos autores se comprometam a usá-lo. (Alguns outros softwares da Free Software Foundation são cobertos pela Licença Pública Geral Menor GNU). Você também pode aplicá-la a seus programas.
 
-When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs; and that you know you can do these things.
+Quando falamos de software livre, estamos nos referindo à liberdade, não ao preço. Nossas Licenças Públicas Gerais são projetadas para garantir que você tenha a liberdade de distribuir cópias de software livre (e cobrar por este serviço se desejar), que receba o código fonte ou que possa obtê-lo se desejar, que possa mudar o software ou usar partes dele em novos programas livres; e que você saiba que pode fazer estas coisas.
 
-To protect your rights, we need to make restrictions that forbid anyone to deny you these rights or to ask you to surrender the rights. These restrictions translate to certain responsibilities for you if you distribute copies of the software, or if you modify it.
+Para proteger seus direitos, precisamos fazer restrições que proíbam que alguém lhe negue esses direitos ou lhe peça para renunciar a eles. Estas restrições se traduzem em certas responsabilidades para você se você distribuir cópias do software, ou se você o modificar.
 
-For example, if you distribute copies of such a program, whether gratis or for a fee, you must give the recipients all the rights that you have. You must make sure that they, too, receive or can get the source code. And you must show them these terms so they know their rights.
+Por exemplo, se você distribuir cópias de tal programa, seja gratuitamente ou por uma taxa, você deve dar aos destinatários todos os direitos que você tem. Você deve certificar-se de que eles também recebam ou possam obter o código fonte. E você deve mostrar-lhes estes termos para que eles conheçam seus direitos.
 
-We protect your rights with two steps: (1) copyright the software, and (2) offer you this license which gives you legal permission to copy, distribute and/or modify the software.
+Nós protegemos seus direitos com duas etapas: (1) direitos autorais do software, e (2) oferecer-lhe esta licença que lhe dá permissão legal para copiar, distribuir e/ou modificar o software.
 
-Also, for each author's protection and ours, we want to make certain that everyone understands that there is no warranty for this free software. If the software is modified by someone else and passed on, we want its recipients to know that what they have is not the original, so that any problems introduced by others will not reflect on the original authors' reputations.
+Além disso, para a proteção de cada autor e nossa, queremos garantir que todos entendam que não há garantia para este software livre. Se o software for modificado por outra pessoa e passado adiante, queremos que seus destinatários saibam que o que eles têm não é o original, para que quaisquer problemas introduzidos por outros não reflitam sobre a reputação dos autores originais.
 
-Finally, any free program is threatened constantly by software patents. We wish to avoid the danger that redistributors of a free program will individually obtain patent licenses, in effect making the program proprietary. To prevent this, we have made it clear that any patent must be licensed for everyone's free use or not licensed at all.
+Finalmente, qualquer programa livre é constantemente ameaçado por patentes de software. Queremos evitar o perigo de que os redistribuidores de um programa livre obtenham individualmente licenças de patente, tornando o programa proprietário. Para evitar isto, deixamos claro que qualquer patente deve ser licenciada para o uso livre de todos ou não ser licenciada de forma alguma.
 
-The precise terms and conditions for copying, distribution and modification follow.
+Os termos e condições precisas para cópia, distribuição e modificação são os seguintes.
 
                 GNU GENERAL PUBLIC LICENSE
 
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+TERMOS E CONDIÇÕES PARA CÓPIA, DISTRIBUIÇÃO E MODIFICAÇÃO
 
-    This License applies to any program or other work which contains a notice placed
-    by the copyright holder saying it may be distributed under the terms of this 
-    General Public License. The "Program", below, refers to any such program or work,
-    and a "work based on the Program" means either the Program or any derivative work
-    under copyright law: that is to say, a work containing the Program or a portion of
-    it, either verbatim or with modifications and/or translated into another language.
-    (Hereinafter, translation is included without limitation in the term "modification".)
-    Each licensee is addressed as "you".
+    Esta licença se aplica a qualquer programa ou outro trabalho que contenha um aviso colocado
+    pelo detentor dos direitos autorais dizendo que pode ser distribuído nos termos do presente 
+    Licença Pública Geral. O "Programa", abaixo, se refere a qualquer programa ou trabalho deste tipo,
+    e um "trabalho baseado no Programa" significa ou o Programa ou qualquer trabalho derivado
+    sob a lei de direitos autorais: ou seja, uma obra contendo o Programa ou uma parte do
+    o, seja textualmente ou com modificações e/ou traduzido para outro idioma.
+    (A seguir, a tradução é incluída sem limitação no termo "modificação").
+    Cada licenciado é endereçado como "você".
 
-Activities other than copying, distribution and modification are not covered by this License; they are outside its scope. The act of running the Program is not restricted, and the output from the Program is covered only if its contents constitute a work based on the Program (independent of having been made by running the Program). Whether that is true depends on what the Program does.
+Outras atividades além de cópia, distribuição e modificação não são cobertas por esta Licença; elas estão fora de seu escopo. O ato de executar o Programa não é restrito, e a saída do Programa é coberta somente se seu conteúdo constituir um trabalho baseado no Programa (independente de ter sido feito através da execução do Programa). Se isso é verdade, depende do que o Programa faz.
 
-    You may copy and distribute verbatim copies of the Program's source code as you 
-    receive it, in any medium, provided that you conspicuously and appropriately 
-    publish on each copy an appropriate copyright notice and disclaimer of warranty;
-    keep intact all the notices that refer to this License and to the absence of any warranty;
-    and give any other recipients of the Program a copy of this License along with the Program.
+    Você pode copiar e distribuir cópias literais do código fonte do Programa conforme você 
+    recebê-la, em qualquer meio, desde que você a receba de forma conspícua e apropriada 
+    publicar em cada cópia um aviso apropriado de direitos autorais e renúncia de garantia;
+    manter intactos todos os avisos que se referem a esta Licença e à ausência de qualquer garantia;
+    e dê a qualquer outro destinatário do Programa uma cópia desta Licença junto com o Programa.
 
-You may charge a fee for the physical act of transferring a copy, and you may at your option offer warranty protection in exchange for a fee.
+Você pode cobrar uma taxa pelo ato físico de transferir uma cópia, e você pode, a seu critério, oferecer proteção de garantia em troca de uma taxa.
 
-    You may modify your copy or copies of the Program or any portion of it, thus 
-    forming a work based on the Program, and copy and distribute such modifications or
-    work under the terms of Section 1 above, provided that you also meet all of these conditions:
+    Você pode modificar sua cópia ou cópias do Programa ou qualquer parte do mesmo, assim 
+    formando um trabalho baseado no Programa, e copiar e distribuir tais modificações ou
+    trabalhar sob os termos da Seção 1 acima, desde que você também atenda a todas essas condições:
 
-a) You must cause the modified files to carry prominent notices
-stating that you changed the files and the date of any change.
+a) Você deve fazer com que os arquivos modificados tragam avisos destacados
+declarando que você alterou os arquivos e a data de qualquer alteração.
 
-b) You must cause any work that you distribute or publish, that in
-whole or in part contains or is derived from the Program or any
-part thereof, to be licensed as a whole at no charge to all third
-parties under the terms of this License.
+b) Você deve causar qualquer trabalho que distribuir ou publicar, que em
+total ou em parte contém ou é derivado do Programa ou qualquer
+parte dela, para ser licenciada como um todo, sem nenhum custo para todos os terceiros
+partes sob os termos desta Licença.
 
-c) If the modified program normally reads commands interactively
-when run, you must cause it, when started running for such
-interactive use in the most ordinary way, to print or display an
-announcement including an appropriate copyright notice and a
-notice that there is no warranty (or else, saying that you provide
-a warranty) and that users may redistribute the program under
-these conditions, and telling the user how to view a copy of this
-License.  (Exception: if the Program itself is interactive but
-does not normally print such an announcement, your work based on
-the Program is not required to print an announcement.)
+c) Se o programa modificado normalmente lê comandos de forma interativa
+quando for executado, você deve causar isso, quando começou a correr para tal
+uso interativo da maneira mais comum, para imprimir ou exibir um
+incluindo um aviso apropriado de direitos autorais e um
+notar que não há garantia (ou então, dizendo que você fornece
+uma garantia) e que os usuários possam redistribuir o programa sob
+estas condições, e dizer ao usuário como ver uma cópia disto
+Licença.  (Exceção: se o Programa em si for interativo, mas
+normalmente não imprime tal anúncio, seu trabalho baseado em
+o Programa não é obrigado a imprimir um anúncio).
 
-These requirements apply to the modified work as a whole. If identifiable sections of that work are not derived from the Program, and can be reasonably considered independent and separate works in themselves, then this License, and its terms, do not apply to those sections when you distribute them as separate works. But when you distribute the same sections as part of a whole which is a work based on the Program, the distribution of the whole must be on the terms of this License, whose permissions for other licensees extend to the entire whole, and thus to each and every part regardless of who wrote it.
+Estes requisitos se aplicam ao trabalho modificado como um todo. Se seções identificáveis desse trabalho não são derivadas do Programa, e podem ser razoavelmente consideradas obras independentes e separadas em si mesmas, então esta Licença, e seus termos, não se aplicam a essas seções quando você as distribui como obras separadas. Mas quando você distribuir as mesmas seções como parte de um todo que é uma obra baseada no Programa, a distribuição do todo deve ser nos termos desta Licença, cujas permissões para outros licenciados se estendem ao todo e, portanto, a toda e qualquer parte, independentemente de quem a escreveu.
 
-Thus, it is not the intent of this section to claim rights or contest your rights to work written entirely by you; rather, the intent is to exercise the right to control the distribution of derivative or collective works based on the Program.
+Assim, não é a intenção desta seção reivindicar direitos ou contestar seus direitos de trabalho escritos inteiramente por você; a intenção é exercer o direito de controlar a distribuição de obras derivadas ou coletivas com base no Programa.
 
-In addition, mere aggregation of another work not based on the Program with the Program (or with a work based on the Program) on a volume of a storage or distribution medium does not bring the other work under the scope of this License.
+Além disso, a mera agregação de outro trabalho não baseado no Programa com o Programa (ou com um trabalho baseado no Programa) em um volume de um meio de armazenamento ou distribuição não traz o outro trabalho sob o escopo desta Licença.
 
-    You may copy and distribute the Program (or a work based on it, under Section 2)
-    in object code or executable form under the terms of Sections 1 and 2 above 
-    provided that you also do one of the following:
+    Você pode copiar e distribuir o Programa (ou um trabalho baseado no mesmo, sob a Seção 2)
+    em código objeto ou de forma executável nos termos das Seções 1 e 2 acima 
+    desde que você também faça uma das seguintes ações:
 
-a) Accompany it with the complete corresponding machine-readable
-source code, which must be distributed under the terms of Sections
-1 and 2 above on a medium customarily used for software interchange; or,
+a) Acompanhe-o com a máquina correspondente completa e legível
+código fonte, que deve ser distribuído de acordo com os termos das Seções
+1 e 2 acima em um meio normalmente usado para intercâmbio de software; ou,
 
-b) Accompany it with a written offer, valid for at least three
-years, to give any third party, for a charge no more than your
-cost of physically performing source distribution, a complete
-machine-readable copy of the corresponding source code, to be
-distributed under the terms of Sections 1 and 2 above on a medium
-customarily used for software interchange; or,
+b) Acompanhá-lo com uma oferta por escrito, válida por pelo menos três
+anos, para dar a qualquer terceiro, por um custo não superior ao seu
+custo de distribuição da fonte, um completo
+cópia legível por máquina do código fonte correspondente, a ser
+distribuído nos termos das Seções 1 e 2 acima em um meio
+normalmente usado para intercâmbio de software; ou,
 
-c) Accompany it with the information you received as to the offer
-to distribute corresponding source code.  (This alternative is
-allowed only for noncommercial distribution and only if you
-received the program in object code or executable form with such
-an offer, in accord with Subsection b above.)
+c) Acompanhe-o com as informações que você recebeu sobre a oferta
+para distribuir o código fonte correspondente.  (Esta alternativa é
+permitido somente para distribuição não comercial e somente se você
+recebeu o programa em código objeto ou de forma executável com tal
+uma oferta, de acordo com a subseção b acima).
 
-The source code for a work means the preferred form of the work for making modifications to it. For an executable work, complete source code means all the source code for all modules it contains, plus any associated interface definition files, plus the scripts used to control compilation and installation of the executable. However, as a special exception, the source code distributed need not include anything that is normally distributed (in either source or binary form) with the major components (compiler, kernel, and so on) of the operating system on which the executable runs, unless that component itself accompanies the executable.
+O código fonte de um trabalho significa a forma preferida do trabalho para fazer modificações nele. Para um trabalho executável, código fonte completo significa todo o código fonte para todos os módulos que ele contém, mais quaisquer arquivos de definição de interface associados, mais os scripts usados para controlar a compilação e instalação do executável. Entretanto, como exceção especial, o código fonte distribuído não precisa incluir nada que seja normalmente distribuído (em forma de fonte ou binária) com os principais componentes (compilador, kernel, etc.) do sistema operacional no qual o executável roda, a menos que esse componente acompanhe o executável em si.
 
-If distribution of executable or object code is made by offering access to copy from a designated place, then offering equivalent access to copy the source code from the same place counts as distribution of the source code, even though third parties are not compelled to copy the source along with the object code.
+Se a distribuição do executável ou código objeto for feita oferecendo acesso à cópia de um local designado, então oferecer acesso equivalente para copiar o código fonte do mesmo local conta como distribuição do código fonte, mesmo que terceiros não sejam obrigados a copiar o código fonte junto com o código objeto.
 
-    You may not copy, modify, sublicense, or distribute the Program except as expressly
-    provided under this License. Any attempt otherwise to copy, modify, sublicense or
-    distribute the Program is void, and will automatically terminate your rights under
-    this License. However, parties who have received copies, or rights, from you under
-    this License will not have their licenses terminated so long as such parties remain
-    in full compliance.
+    Você não pode copiar, modificar, sublicenciar ou distribuir o Programa, exceto se expressamente
+    fornecido sob esta licença. Qualquer outra tentativa de copiar, modificar, sublicenciar ou
+    distribuir o Programa é nulo, e automaticamente encerrará seus direitos sob
+    esta licença. Entretanto, as partes que tenham recebido cópias, ou direitos, de você sob
+    esta licença não terá suas licenças terminadas enquanto tais partes permanecerem
+    em total conformidade.
 
-    You are not required to accept this License, since you have not signed it. However,
-    nothing else grants you permission to modify or distribute the Program or its derivative works.
-    These actions are prohibited by law if you do not accept this License. Therefore,
-    by modifying or distributing the Program (or any work based on the Program),
-    you indicate your acceptance of this License to do so, and all its terms and 
-    conditions for copying, distributing or modifying the Program or works based on it.
+    Você não é obrigado a aceitar esta Licença, uma vez que não a assinou. No entanto,
+    nada mais lhe dá permissão para modificar ou distribuir o Programa ou seus trabalhos derivados.
+    Estas ações são proibidas por lei se você não aceitar esta Licença. Portanto,
+    modificando ou distribuindo o Programa (ou qualquer trabalho baseado no Programa),
+    você indica sua aceitação desta Licença para fazê-lo, e todos os seus termos e 
+    condições para copiar, distribuir ou modificar o Programa ou trabalhos com base nele.
 
-    Each time you redistribute the Program (or any work based on the Program),
-    the recipient automatically receives a license from the original licensor to copy,
-    distribute or modify the Program subject to these terms and conditions.
-    You may not impose any further restrictions on the recipients' exercise of the rights
-    granted herein. You are not responsible for enforcing compliance by third parties to this License.
+    Cada vez que você redistribuir o Programa (ou qualquer trabalho baseado no Programa),
+    o destinatário recebe automaticamente uma licença do licenciador original para copiar,
+    distribuir ou modificar o Programa sujeito a estes termos e condições.
+    Você não pode impor quaisquer outras restrições ao exercício dos direitos por parte dos destinatários
+    concedido aqui. Você não é responsável por impor o cumprimento desta Licença por terceiros.
 
-    If, as a consequence of a court judgment or allegation of patent infringement or 
-    for any other reason (not limited to patent issues), conditions are imposed on you
-    (whether by court order, agreement or otherwise) that contradict the conditions of
-    this License, they do not excuse you from the conditions of this License.
-    If you cannot distribute so as to satisfy simultaneously your obligations under this
-    License and any other pertinent obligations, then as a consequence you may not 
-    distribute the Program at all. For example, if a patent license would not permit 
-    royalty-free redistribution of the Program by all those who receive copies directly or
-    indirectly through you, then the only way you could satisfy both it and this License
-    would be to refrain entirely from distribution of the Program.
+    Se, como conseqüência de uma sentença judicial ou alegação de infração de patente ou 
+    por qualquer outro motivo (não limitado a questões de patentes), as condições são impostas a você
+    (seja por ordem judicial, acordo ou de outra forma) que contradigam as condições de
+    esta Licença, eles não o dispensam das condições desta Licença.
+    Se você não puder distribuir de forma a satisfazer simultaneamente suas obrigações sob esta
+    Licença e quaisquer outras obrigações pertinentes, então, como conseqüência, você não pode 
+    distribuir o Programa de forma alguma. Por exemplo, se uma licença de patente não permitisse 
+    redistribuição livre de royalties do Programa por todos aqueles que recebem cópias diretamente ou
+    indiretamente através de você, então a única maneira de satisfazer tanto esta Licença como esta
+    seria abster-se totalmente de distribuir o Programa.
 
-If any portion of this section is held invalid or unenforceable under any particular circumstance, the balance of the section is intended to apply and the section as a whole is intended to apply in other circumstances.
+Se qualquer parte desta seção for considerada inválida ou inexeqüível sob qualquer circunstância particular, o restante da seção se aplica e a seção como um todo se aplica em outras circunstâncias.
 
-It is not the purpose of this section to induce you to infringe any patents or other property right claims or to contest validity of any such claims; this section has the sole purpose of protecting the integrity of the free software distribution system, which is implemented by public license practices. Many people have made generous contributions to the wide range of software distributed through that system in reliance on consistent application of that system; it is up to the author/donor to decide if he or she is willing to distribute software through any other system and a licensee cannot impose that choice.
+Não é o propósito desta seção induzir o usuário a infringir quaisquer patentes ou outras reivindicações de direitos de propriedade ou contestar a validade de tais reivindicações; esta seção tem o único propósito de proteger a integridade do sistema de distribuição de software livre, o qual é implementado por práticas de licença pública. Muitas pessoas fizeram contribuições generosas para a ampla gama de software distribuído através desse sistema, com base na aplicação consistente desse sistema; cabe ao autor/doador decidir se está disposto a distribuir software através de qualquer outro sistema e um licenciado não pode impor essa escolha.
 
-This section is intended to make thoroughly clear what is believed to be a consequence of the rest of this License.
+Esta seção pretende deixar bem claro o que se acredita ser uma conseqüência do restante desta Licença.
 
-    If the distribution and/or use of the Program is restricted in certain countries 
-    either by patents or by copyrighted interfaces, the original copyright holder who 
-    places the Program under this License may add an explicit geographical distribution
-    limitation excluding those countries, so that distribution is permitted only in or 
-    among countries not thus excluded. In such case, this License incorporates the limitation
-    as if written in the body of this License.
+    Se a distribuição e/ou uso do Programa for restrito em certos países 
+    seja por patentes ou por interfaces protegidas por direitos autorais, o titular original dos direitos autorais que 
+    coloca o Programa sob esta Licença pode acrescentar uma distribuição geográfica explícita
+    limitação, excluindo esses países, de modo que a distribuição seja permitida apenas em ou 
+    entre países assim não excluídos. Em tal caso, esta Licença incorpora a limitação
+    como se estivesse escrito no corpo desta Licença.
 
-    The Free Software Foundation may publish revised and/or new versions of the General
-    Public License from time to time. Such new versions will be similar in spirit to the
-    present version, but may differ in detail to address new problems or concerns.
+    A Free Software Foundation pode publicar versões revisadas e/ou novas versões da Licença Geral
+    Licença Pública de vez em quando. Tais novas versões serão semelhantes em espírito à
+    versão atual, mas pode diferir em detalhes para tratar de novos problemas ou preocupações.
 
-Each version is given a distinguishing version number. If the Program specifies a version number of this License which applies to it and "any later version", you have the option of following the terms and conditions either of that version or of any later version published by the Free Software Foundation. If the Program does not specify a version number of this License, you may choose any version ever published by the Free Software Foundation.
+A cada versão é dado um número de versão distinto. Se o Programa especificar um número de versão desta Licença que se aplica a ela e "qualquer versão posterior", você tem a opção de seguir os termos e condições tanto daquela versão quanto de qualquer versão posterior publicada pela Free Software Foundation. Se o Programa não especificar um número de versão desta Licença, você poderá escolher qualquer versão já publicada pela Free Software Foundation.
 
-    If you wish to incorporate parts of the Program into other free programs whose 
-    distribution conditions are different, write to the author to ask for permission.
-    For software which is copyrighted by the Free Software Foundation, write to the 
-    Free Software Foundation; we sometimes make exceptions for this. Our decision will be
-    guided by the two goals of preserving the free status of all derivatives of our 
-    free software and of promoting the sharing and reuse of software generally.
+    Se você desejar incorporar partes do Programa em outros programas livres cujos 
+    As condições de distribuição são diferentes, escreva para o autor para pedir permissão.
+    Para software que é protegido por direitos autorais pela Free Software Foundation, escreva para o 
+    Free Software Foundation; às vezes abrimos exceções para isso. Nossa decisão será
+    guiados pelos dois objetivos de preservar o status livre de todos os derivados de nosso 
+    software livre e de promover o compartilhamento e a reutilização de software em geral.
 
-                      NO WARRANTY
+                      SEM GARANTIA
 
-    BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE PROGRAM,
-    TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE
-    COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF
-    ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
-    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO
-    THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE,
-    YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+    PORQUE O PROGRAMA É LICENCIADO GRATUITAMENTE, NÃO HÁ GARANTIA PARA O PROGRAMA,
+    NA MEDIDA DO PERMITIDO PELA LEGISLAÇÃO APLICÁVEL. EXCETO QUANDO DE OUTRA FORMA INDICADO POR ESCRITO, O
+    OS DETENTORES DOS DIREITOS AUTORAIS E/OU OUTRAS PARTES FORNECEM O PROGRAMA "COMO ESTÁ" SEM GARANTIA DE
+    QUALQUER TIPO, EXPRESSO OU IMPLÍCITO, INCLUINDO, MAS NÃO SE LIMITANDO A, O IMPLÍCITO 
+    GARANTIAS DE COMERCIABILIDADE E ADEQUAÇÃO PARA UM DETERMINADO FIM. TODO O RISCO QUANTO A
+    A QUALIDADE E O DESEMPENHO DO PROGRAMA ESTÁ COM VOCÊ. CASO O PROGRAMA SE REVELE DEFEITUOSO,
+    VOCÊ ASSUME O CUSTO DE TODOS OS SERVIÇOS NECESSÁRIOS, REPAROS OU CORREÇÕES.
 
-    IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY 
-    COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM
-    AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL,
-    INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE
-    PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR
-    LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH
-    ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE 
-    POSSIBILITY OF SUCH DAMAGES.
+    EM NENHUM CASO, A MENOS QUE EXIGIDO PELA LEI APLICÁVEL OU ACORDADO POR ESCRITO, QUALQUER 
+    DETENTOR DOS DIREITOS AUTORAIS, OU QUALQUER OUTRA PARTE QUE POSSA MODIFICAR E/OU REDISTRIBUIR O PROGRAMA
+    COMO PERMITIDO ACIMA, SER RESPONSÁVEL POR DANOS, INCLUINDO QUALQUER GERAL, ESPECIAL,
+    DANOS INCIDENTAIS OU CONSEQÜENTES DECORRENTES DO USO OU DA INCAPACIDADE DE USAR O
+    (INCLUINDO, MAS NÃO SE LIMITANDO À PERDA DE DADOS OU DADOS TORNADOS IMPRECISOS OU
+    PERDAS SOFRIDAS POR VOCÊ OU POR TERCEIROS OU UMA FALHA NO FUNCIONAMENTO DO PROGRAMA COM
+    QUALQUER OUTRO PROGRAMA), MESMO QUE TAL TITULAR OU OUTRA PARTE TENHA SIDO AVISADA SOBRE O 
+    POSSIBILIDADE DE TAIS DANOS.
 
-               END OF TERMS AND CONDITIONS
+               FIM DOS TERMOS E CONDIÇÕES
 
-      How to Apply These Terms to Your New Programs
+      Como aplicar estes termos a seus novos programas
 
-If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.
+Se você desenvolver um novo programa e quiser que ele seja da maior utilidade possível para o público, a melhor maneira de conseguir isso é torná-lo um software livre que todos possam redistribuir e mudar sob estes termos.
 
-To do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively convey the exclusion of warranty; and each file should have at least the "copyright" line and a pointer to where the full notice is found.
+Para fazer isso, anexe os seguintes avisos ao programa. É mais seguro anexá-los ao início de cada arquivo fonte para transmitir mais efetivamente a exclusão da garantia; e cada arquivo deve ter pelo menos a linha "copyright" e um ponteiro para onde o aviso completo é encontrado.
 
-<one line to give the program's name and a brief idea of what it does.>
-Copyright (C) <year>  <name of author>
+<uma linha para dar o nome do programa e uma breve idéia do que ele faz.>
+Copyright (C) <ano> <nome do autor>
 
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
+Este programa é software livre; você pode redistribuí-lo e/ou modificá-lo
+sob os termos da Licença Pública Geral GNU, conforme publicada por
+a Free Software Foundation; ou a versão 2 da Licença, ou
+(a seu critério) qualquer versão posterior.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+Este programa é distribuído na esperança de que seja útil,
+mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de
+MERCANTABILIDADE ou ADEQUAÇÃO PARA UM FINAL PARTICULAR.  Veja o
+GNU General Public License para mais detalhes.
 
-You should have received a copy of the GNU General Public License along
-with this program; if not, write to the Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+Você deve ter recebido uma cópia da Licença Pública Geral do GNU junto
+com este programa; se não, escreva para a Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 EUA.
 
-Also add information on how to contact you by electronic and paper mail.
+Acrescente também informações sobre como contatá-lo por correio eletrônico e papel.
 
-If the program is interactive, make it output a short notice like this when it starts in an interactive mode:
+Se o programa for interativo, faça-o sair em um curto espaço de tempo como este quando ele começar em modo interativo:
 
-Gnomovision version 69, Copyright (C) year name of author
-Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-This is free software, and you are welcome to redistribute it
-under certain conditions; type `show c' for details.
+Gnomovision versão 69, Copyright (C) ano nome do autor
+Gnomovision vem com ABSOLUTAMENTE SEM GARANTIA; para detalhes digite `show w'.
+Este é um software livre, e você é bem-vindo a redistribuí-lo
+sob certas condições; digite `show c' para obter detalhes.
 
-The hypothetical commands show w' and show c' should show the appropriate parts of the General Public License. Of course, the commands you use may be called something other than show w' and show c'; they could even be mouse-clicks or menu items--whatever suits your program.
+Os comandos hipotéticos mostram w' e mostram c' devem mostrar as partes apropriadas da Licença Pública Geral. É claro que os comandos que você utiliza podem ser chamados de algo diferente de "mostrar w" e "mostrar c"; eles podem até ser cliques do mouse ou itens de menu - o que for mais adequado ao seu programa.
 
-You should also get your employer (if you work as a programmer) or your school, if any, to sign a "copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:
+Você também deve conseguir que seu empregador (se você trabalha como programador) ou sua escola, se houver, assine uma "isenção de direitos autorais" para o programa, se necessário. Aqui está um exemplo; altere os nomes:
 
-Yoyodyne, Inc., hereby disclaims all copyright interest in the program `Gnomovision' (which makes passes at compilers) written by James Hacker.
+Yoyodyne, Inc., por meio deste documento, renuncia a todo interesse de direitos autorais no programa `Gnomovision' (que faz passes em compiladores) escrito por James Hacker.
 
-, 1 April 1989 Ty Coon, President of Vice
+Em 1 de abril de 1989, Ty Coon, Presidente da Vice
 
-This General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License.
+Esta Licença Pública Geral não permite incorporar seu programa em programas proprietários. Se seu programa é uma biblioteca de sub-rotinas, você pode considerar mais útil permitir a ligação de aplicações proprietárias com a biblioteca. Se é isto que você deseja fazer, use a Licença Pública Geral Menor GNU ao invés desta Licença.

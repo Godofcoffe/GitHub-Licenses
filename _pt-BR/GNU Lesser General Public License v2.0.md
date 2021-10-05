@@ -1,293 +1,293 @@
               GNU LESSER GENERAL PUBLIC LICENSE
                    Version 2.1, February 1999
 
-Copyright (C) 1991, 1999 Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+Copyright (C) 1991, 1999 Free Software Foundation, Inc. (Fundação para o Software Livre, Inc.) 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Todos têm permissão para copiar e distribuir cópias literais deste documento de licença, mas não é permitido modificá-lo.
 
-[This is the first released version of the Lesser GPL. It also counts as the successor of the GNU Library Public License, version 2, hence the version number 2.1.]
+[Esta é a primeira versão lançada da GPL Lesser. Ela também conta como sucessora da GNU Library Public License, versão 2, daí o número de versão 2.1].
 
-                        Preamble
+                        Preâmbulo
 
-The licenses for most software are designed to take away your freedom to share and change it. By contrast, the GNU General Public Licenses are intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users.
+As licenças para a maioria dos softwares são projetadas para tirar sua liberdade de compartilhá-lo e modificá-lo. Em contraste, as Licenças Públicas Gerais GNU destinam-se a garantir sua liberdade de compartilhar e alterar software livre - para garantir que o software seja livre para todos os seus usuários.
 
-This license, the Lesser General Public License, applies to some specially designated software packages--typically libraries--of the Free Software Foundation and other authors who decide to use it. You can use it too, but we suggest you first think carefully about whether this license or the ordinary General Public License is the better strategy to use in any particular case, based on the explanations below.
+Esta licença, a Licença Pública Geral Menor, se aplica a alguns pacotes de software especialmente designados - tipicamente bibliotecas - da Free Software Foundation e outros autores que decidem usá-la. Você também pode usá-la, mas sugerimos que você primeiro pense cuidadosamente se esta licença ou a Licença Pública Geral comum é a melhor estratégia para usar em qualquer caso em particular, com base nas explicações abaixo.
 
-When we speak of free software, we are referring to freedom of use, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish); that you receive source code or can get it if you want it; that you can change the software and use pieces of it in new free programs; and that you are informed that you can do these things.
+Quando falamos de software livre, estamos nos referindo à liberdade de uso, não ao preço. Nossas Licenças Públicas Gerais são projetadas para assegurar que você tenha a liberdade de distribuir cópias de software livre (e cobrar por este serviço se desejar); que você receba o código fonte ou possa obtê-lo se desejar; que você possa mudar o software e usar partes dele em novos programas livres; e que você seja informado de que pode fazer estas coisas.
 
-To protect your rights, we need to make restrictions that forbid distributors to deny you these rights or to ask you to surrender these rights. These restrictions translate to certain responsibilities for you if you distribute copies of the library or if you modify it.
+Para proteger seus direitos, precisamos fazer restrições que proíbam os distribuidores de lhe negar esses direitos ou de lhe pedir que os renuncie. Estas restrições se traduzem em certas responsabilidades para você se você distribuir cópias da biblioteca ou se você modificá-la.
 
-For example, if you distribute copies of the library, whether gratis or for a fee, you must give the recipients all the rights that we gave you. You must make sure that they, too, receive or can get the source code. If you link other code with the library, you must provide complete object files to the recipients, so that they can relink them with the library after making changes to the library and recompiling it. And you must show them these terms so they know their rights.
+Por exemplo, se você distribuir cópias da biblioteca, seja gratuitamente ou por uma taxa, você deve dar aos destinatários todos os direitos que lhe demos. Você deve certificar-se de que eles também recebam ou possam obter o código fonte. Se você conectar outro código com a biblioteca, você deve fornecer arquivos objeto completos aos destinatários, para que eles possam religá-los à biblioteca depois de fazer alterações na biblioteca e recompilá-la. E você deve mostrar-lhes estes termos para que eles conheçam seus direitos.
 
-We protect your rights with a two-step method: (1) we copyright the library, and (2) we offer you this license, which gives you legal permission to copy, distribute and/or modify the library.
+Nós protegemos seus direitos com um método em duas etapas: (1) nós temos direitos autorais da biblioteca, e (2) oferecemos esta licença, que lhe dá permissão legal para copiar, distribuir e/ou modificar a biblioteca.
 
-To protect each distributor, we want to make it very clear that there is no warranty for the free library. Also, if the library is modified by someone else and passed on, the recipients should know that what they have is not the original version, so that the original author's reputation will not be affected by problems that might be introduced by others.
+Para proteger cada distribuidor, queremos deixar bem claro que não há garantia para a biblioteca gratuita. Além disso, se a biblioteca for modificada por outra pessoa e transmitida, os destinatários devem saber que o que eles têm não é a versão original, para que a reputação do autor original não seja afetada por problemas que possam ser introduzidos por outros.
 
-Finally, software patents pose a constant threat to the existence of any free program. We wish to make sure that a company cannot effectively restrict the users of a free program by obtaining a restrictive license from a patent holder. Therefore, we insist that any patent license obtained for a version of the library must be consistent with the full freedom of use specified in this license.
+Finalmente, as patentes de software representam uma ameaça constante à existência de qualquer programa livre. Queremos ter certeza de que uma empresa não pode efetivamente restringir os usuários de um programa livre, obtendo uma licença restritiva de um detentor de patente. Portanto, insistimos que qualquer licença de patente obtida para uma versão da biblioteca deve ser consistente com a total liberdade de uso especificada nesta licença.
 
-Most GNU software, including some libraries, is covered by the ordinary GNU General Public License. This license, the GNU Lesser General Public License, applies to certain designated libraries, and is quite different from the ordinary General Public License. We use this license for certain libraries in order to permit linking those libraries into non-free programs.
+A maioria do software GNU, incluindo algumas bibliotecas, é coberta pela Licença Pública Geral GNU comum. Esta licença, a Licença Pública Geral Menor do GNU, aplica-se a certas bibliotecas designadas, e é bastante diferente da Licença Pública Geral comum. Nós usamos esta licença para certas bibliotecas a fim de permitir a ligação destas bibliotecas em programas não-livres.
 
-When a program is linked with a library, whether statically or using a shared library, the combination of the two is legally speaking a combined work, a derivative of the original library. The ordinary General Public License therefore permits such linking only if the entire combination fits its criteria of freedom. The Lesser General Public License permits more lax criteria for linking other code with the library.
+Quando um programa é ligado a uma biblioteca, seja estaticamente ou usando uma biblioteca compartilhada, a combinação dos dois é, em termos legais, uma obra combinada, um derivado da biblioteca original. A Licença Pública Geral comum, portanto, permite tal vinculação somente se a combinação inteira se encaixar em seus critérios de liberdade. A Licença Pública Geral Menor permite critérios mais frouxos para vincular outros códigos com a biblioteca.
 
-We call this license the "Lesser" General Public License because it does Less to protect the user's freedom than the ordinary General Public License. It also provides other free software developers Less of an advantage over competing non-free programs. These disadvantages are the reason we use the ordinary General Public License for many libraries. However, the Lesser license provides advantages in certain special circumstances.
+Chamamos esta licença de Licença Pública Geral "Menor" porque ela faz menos para proteger a liberdade do usuário do que a Licença Pública Geral comum. Ela também fornece a outros desenvolvedores de software livre Menos vantagem sobre os programas concorrentes não livres. Estas desvantagens são a razão pela qual usamos a Licença Pública Geral comum para muitas bibliotecas. Entretanto, a Licença Menor oferece vantagens em certas circunstâncias especiais.
 
-For example, on rare occasions, there may be a special need to encourage the widest possible use of a certain library, so that it becomes a de-facto standard. To achieve this, non-free programs must be allowed to use the library. A more frequent case is that a free library does the same job as widely used non-free libraries. In this case, there is little to gain by limiting the free library to free software only, so we use the Lesser General Public License.
+Por exemplo, em raras ocasiões, pode haver uma necessidade especial de incentivar o uso mais amplo possível de uma determinada biblioteca, de modo que ela se torne um padrão de fato. Para conseguir isto, programas não gratuitos devem ser permitidos para usar a biblioteca. Um caso mais freqüente é que uma biblioteca gratuita faz o mesmo trabalho que bibliotecas não-livres amplamente utilizadas. Neste caso, há pouco a ganhar limitando a biblioteca livre apenas ao software livre, de modo que usamos a Licença Pública Geral Menor.
 
-In other cases, permission to use a particular library in non-free programs enables a greater number of people to use a large body of free software. For example, permission to use the GNU C Library in non-free programs enables many more people to use the whole GNU operating system, as well as its variant, the GNU/Linux operating system.
+Em outros casos, a permissão para usar uma determinada biblioteca em programas não livres permite que um maior número de pessoas use um grande corpo de software livre. Por exemplo, a permissão para usar a Biblioteca C GNU em programas não livres permite que muito mais pessoas usem todo o sistema operacional GNU, assim como sua variante, o sistema operacional GNU/Linux.
 
-Although the Lesser General Public License is Less protective of the users' freedom, it does ensure that the user of a program that is linked with the Library has the freedom and the wherewithal to run that program using a modified version of the Library.
+Embora a Licença Pública Geral Menor seja menos protetora da liberdade dos usuários, ela garante que o usuário de um programa que esteja ligado à Biblioteca tenha a liberdade e os meios para executar esse programa usando uma versão modificada da Biblioteca.
 
-The precise terms and conditions for copying, distribution and modification follow. Pay close attention to the difference between a "work based on the library" and a "work that uses the library". The former contains code derived from the library, whereas the latter must be combined with the library in order to run.
+Os termos e condições precisas para cópia, distribuição e modificação são os seguintes. Preste muita atenção à diferença entre uma "obra baseada na biblioteca" e uma "obra que utiliza a biblioteca". A primeira contém código derivado da biblioteca, enquanto a segunda deve ser combinada com a biblioteca para poder ser executada.
 
-              GNU LESSER GENERAL PUBLIC LICENSE
+              LICENÇA PÚBLICA GERAL MENOR GNU
 
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+TERMOS E CONDIÇÕES PARA CÓPIA, DISTRIBUIÇÃO E MODIFICAÇÃO
 
-    This License Agreement applies to any software library or other program which
-    contains a notice placed by the copyright holder or other authorized party
-    saying it may be distributed under the terms of this Lesser General Public License
-    (also called "this License"). Each licensee is addressed as "you".
+    Este Contrato de Licença se aplica a qualquer biblioteca de software ou outro programa que
+    contém um aviso colocado pelo detentor dos direitos autorais ou outra parte autorizada
+    dizendo que pode ser distribuído sob os termos desta Licença Pública Geral Menor
+    (também chamada "esta licença"). Cada licenciado é endereçado como "você".
 
-A "library" means a collection of software functions and/or data prepared so as to be conveniently linked with application programs (which use some of those functions and data) to form executables.
+Uma "biblioteca" significa uma coleção de funções de software e/ou dados preparados para serem convenientemente ligados a programas de aplicação (que utilizam algumas dessas funções e dados) para formar executáveis.
 
-The "Library", below, refers to any such software library or work which has been distributed under these terms. A "work based on the Library" means either the Library or any derivative work under copyright law: that is to say, a work containing the Library or a portion of it, either verbatim or with modifications and/or translated straightforwardly into another language. (Hereinafter, translation is included without limitation in the term "modification".)
+A "Biblioteca", abaixo, refere-se a qualquer biblioteca de software ou trabalho que tenha sido distribuído sob estes termos. Uma "obra baseada na Biblioteca" significa ou a Biblioteca ou qualquer obra derivada sob a lei de direitos autorais: ou seja, uma obra contendo a Biblioteca ou uma parte dela, seja literalmente ou com modificações e/ou traduzida diretamente para outro idioma. (A seguir, a tradução é incluída sem limitação no termo "modificação").
 
-"Source code" for a work means the preferred form of the work for making modifications to it. For a library, complete source code means all the source code for all modules it contains, plus any associated interface definition files, plus the scripts used to control compilation and installation of the library.
+"Código fonte" para uma obra significa a forma preferida da obra para fazer modificações nela. Para uma biblioteca, código-fonte completo significa todo o código-fonte para todos os módulos que ela contém, mais quaisquer arquivos de definição de interface associados, mais os scripts usados para controlar a compilação e instalação da biblioteca.
 
-Activities other than copying, distribution and modification are not covered by this License; they are outside its scope. The act of running a program using the Library is not restricted, and output from such a program is covered only if its contents constitute a work based on the Library (independent of the use of the Library in a tool for writing it). Whether that is true depends on what the Library does and what the program that uses the Library does.
+Outras atividades além de cópia, distribuição e modificação não são cobertas por esta Licença; elas estão fora de seu escopo. O ato de executar um programa usando a Biblioteca não é restrito, e a saída de tal programa é coberta somente se seu conteúdo constituir uma obra baseada na Biblioteca (independente do uso da Biblioteca em uma ferramenta para escrevê-la). Se isso é verdade depende do que a Biblioteca faz e do que o programa que usa a Biblioteca faz.
 
-    You may copy and distribute verbatim copies of the Library's complete source code
-    as you receive it, in any medium, provided that you conspicuously and appropriately
-    publish on each copy an appropriate copyright notice and disclaimer of warranty;
-    keep intact all the notices that refer to this License and to the absence of any
-    warranty; and distribute a copy of this License along with the Library.
+    Você pode copiar e distribuir cópias literais do código fonte completo da Biblioteca.
+    como você o recebe, em qualquer meio, desde que de forma conspícua e apropriada
+    publicar em cada cópia um aviso apropriado de direitos autorais e renúncia de garantia;
+    manter intactos todos os avisos que se referem a esta licença e à ausência de qualquer
+    garantia; e distribuir uma cópia desta Licença junto com a Biblioteca.
 
-You may charge a fee for the physical act of transferring a copy, and you may at your option offer warranty protection in exchange for a fee.
+Você pode cobrar uma taxa pelo ato físico de transferir uma cópia, e você pode, a seu critério, oferecer proteção de garantia em troca de uma taxa.
 
-    You may modify your copy or copies of the Library or any portion of it, thus 
-    forming a work based on the Library, and copy and distribute such modifications or
-    work under the terms of Section 1 above, provided that you also meet all of these conditions:
+    Você pode modificar sua cópia ou cópias da Biblioteca ou qualquer parte dela, assim 
+    formando uma obra baseada na Biblioteca, e copiar e distribuir tais modificações ou
+    trabalhar sob os termos da Seção 1 acima, desde que você também atenda a todas essas condições:
 
-a) The modified work must itself be a software library.
+a) O trabalho modificado deve ser, por si só, uma biblioteca de software.
 
-b) You must cause the files modified to carry prominent notices
-stating that you changed the files and the date of any change.
+b) Você deve fazer com que os arquivos modificados tragam avisos de destaque
+declarando que você alterou os arquivos e a data de qualquer alteração.
 
-c) You must cause the whole of the work to be licensed at no
-charge to all third parties under the terms of this License.
+c) Você deve fazer com que todo o trabalho seja licenciado em nenhum
+cobrar a todos os terceiros sob os termos desta Licença.
 
-d) If a facility in the modified Library refers to a function or a
-table of data to be supplied by an application program that uses
-the facility, other than as an argument passed when the facility
-is invoked, then you must make a good faith effort to ensure that,
-in the event an application does not supply such function or
-table, the facility still operates, and performs whatever part of
-its purpose remains meaningful.
+d) Se uma instalação na Biblioteca modificada se referir a uma função ou um
+tabela de dados a serem fornecidos por um programa de aplicação que utiliza
+a instalação, a não ser como um argumento passado quando a instalação
+é invocado, então você deve fazer um esforço de boa fé para garantir que isso aconteça,
+no caso de uma aplicação não fornecer tal função ou
+mesa, a instalação ainda funciona, e executa qualquer parte da
+seu propósito permanece significativo.
 
-(For example, a function in a library to compute square roots has
-a purpose that is entirely well-defined independent of the
-application.  Therefore, Subsection 2d requires that any
-application-supplied function or table used by this function must
-be optional: if the application does not supply it, the square
-root function must still compute square roots.)
+(Por exemplo, uma função em uma biblioteca para computar raízes quadradas tem
+um propósito totalmente bem definido, independente do
+aplicação.  Portanto, a subseção 2d exige que qualquer
+função ou tabela fornecida pela aplicação utilizada por esta função deve
+ser opcional: se a aplicação não a fornecer, a praça
+função raiz deve ainda computar raízes quadradas).
 
-These requirements apply to the modified work as a whole. If identifiable sections of that work are not derived from the Library, and can be reasonably considered independent and separate works in themselves, then this License, and its terms, do not apply to those sections when you distribute them as separate works. But when you distribute the same sections as part of a whole which is a work based on the Library, the distribution of the whole must be on the terms of this License, whose permissions for other licensees extend to the entire whole, and thus to each and every part regardless of who wrote it.
+Estes requisitos se aplicam ao trabalho modificado como um todo. Se seções identificáveis dessa obra não forem derivadas da Biblioteca, e puderem ser razoavelmente consideradas obras independentes e separadas em si, então esta Licença, e seus termos, não se aplicam a essas seções quando você as distribuir como obras separadas. Mas quando você distribuir as mesmas seções como parte de um todo que é uma obra baseada na Biblioteca, a distribuição do todo deve ser feita nos termos desta Licença, cujas permissões para outros licenciados se estendem ao todo e, portanto, a cada parte, independentemente de quem a escreveu.
 
-Thus, it is not the intent of this section to claim rights or contest your rights to work written entirely by you; rather, the intent is to exercise the right to control the distribution of derivative or collective works based on the Library.
+Assim, não é a intenção desta seção reivindicar direitos ou contestar seus direitos de trabalho escritos inteiramente por você; a intenção é exercer o direito de controlar a distribuição de obras derivadas ou coletivas com base na Biblioteca.
 
-In addition, mere aggregation of another work not based on the Library with the Library (or with a work based on the Library) on a volume of a storage or distribution medium does not bring the other work under the scope of this License.
+Além disso, a mera agregação de outra obra não baseada na Biblioteca com a Biblioteca (ou com uma obra baseada na Biblioteca) em um volume de um meio de armazenamento ou distribuição não traz a outra obra sob o escopo desta Licença.
 
-    You may opt to apply the terms of the ordinary GNU General Public License instead
-    of this License to a given copy of the Library. To do this, you must alter all the
-    notices that refer to this License, so that they refer to the ordinary GNU General Public License,
-    version 2, instead of to this License.
-    (If a newer version than version 2 of the ordinary GNU General Public License has appeared,
-    then you can specify that version instead if you wish.) Do not make any other change in these notices.
+    Você pode optar por aplicar os termos da Licença Pública Geral GNU comum, em vez de
+    desta licença para uma determinada cópia da Biblioteca. Para fazer isto, você deve alterar todos os
+    avisos que se referem a esta Licença, de modo que se referem à Licença Pública Geral GNU comum,
+    versão 2, ao invés desta Licença.
+    (Se uma versão mais nova do que a versão 2 da Licença Pública Geral GNU comum apareceu,
+    então você pode especificar essa versão em seu lugar, se desejar). Não faça nenhuma outra alteração nestes avisos.
 
-Once this change is made in a given copy, it is irreversible for that copy, so the ordinary GNU General Public License applies to all subsequent copies and derivative works made from that copy.
-
-This option is useful when you wish to copy part of the code of the Library into a program that is not a library.
-
-    You may copy and distribute the Library (or a portion or derivative of it, under Section 2)
-    in object code or executable form under the terms of Sections 1 and 2 above provided that
-    you accompany it with the complete corresponding machine-readable source code, which 
-    must be distributed under the terms of Sections 1 and 2 above on a medium customarily used
-    for software interchange.
-
-If distribution of object code is made by offering access to copy from a designated place, then offering equivalent access to copy the source code from the same place satisfies the requirement to distribute the source code, even though third parties are not compelled to copy the source along with the object code.
-
-    A program that contains no derivative of any portion of the Library, but is designed to
-    work with the Library by being compiled or linked with it, is called a "work that uses the Library".
-    Such a work, in isolation, is not a derivative work of the Library, and therefore falls 
-    outside the scope of this License.
-
-However, linking a "work that uses the Library" with the Library creates an executable that is a derivative of the Library (because it contains portions of the Library), rather than a "work that uses the library". The executable is therefore covered by this License. Section 6 states terms for distribution of such executables.
-
-When a "work that uses the Library" uses material from a header file that is part of the Library, the object code for the work may be a derivative work of the Library even though the source code is not. Whether this is true is especially significant if the work can be linked without the Library, or if the work is itself a library. The threshold for this to be true is not precisely defined by law.
-
-If such an object file uses only numerical parameters, data structure layouts and accessors, and small macros and small inline functions (ten lines or less in length), then the use of the object file is unrestricted, regardless of whether it is legally a derivative work. (Executables containing this object code plus portions of the Library will still fall under Section 6.)
-
-Otherwise, if the work is a derivative of the Library, you may distribute the object code for the work under the terms of Section 6. Any executables containing that work also fall under Section 6, whether or not they are linked directly with the Library itself.
-
-    As an exception to the Sections above, you may also combine or link a "work that uses the
-    Library" with the Library to produce a work containing portions of the Library, and 
-    distribute that work under terms of your choice, provided that the terms permit modification
-    of the work for the customer's own use and reverse engineering for debugging such modifications.
-
-You must give prominent notice with each copy of the work that the Library is used in it and that the Library and its use are covered by this License. You must supply a copy of this License. If the work during execution displays copyright notices, you must include the copyright notice for the Library among them, as well as a reference directing the user to the copy of this License. Also, you must do one of these things:
-
-a) Accompany the work with the complete corresponding
-machine-readable source code for the Library including whatever
-changes were used in the work (which must be distributed under
-Sections 1 and 2 above); and, if the work is an executable linked
-with the Library, with the complete machine-readable "work that
-uses the Library", as object code and/or source code, so that the
-user can modify the Library and then relink to produce a modified
-executable containing the modified Library.  (It is understood
-that the user who changes the contents of definitions files in the
-Library will not necessarily be able to recompile the application
-to use the modified definitions.)
-
-b) Use a suitable shared library mechanism for linking with the
-Library.  A suitable mechanism is one that (1) uses at run time a
-copy of the library already present on the user's computer system,
-rather than copying library functions into the executable, and (2)
-will operate properly with a modified version of the library, if
-the user installs one, as long as the modified version is
-interface-compatible with the version that the work was made with.
-
-c) Accompany the work with a written offer, valid for at
-least three years, to give the same user the materials
-specified in Subsection 6a, above, for a charge no more
-than the cost of performing this distribution.
-
-d) If distribution of the work is made by offering access to copy
-from a designated place, offer equivalent access to copy the above
-specified materials from the same place.
-
-e) Verify that the user has already received a copy of these
-materials or that you have already sent this user a copy.
-
-For an executable, the required form of the "work that uses the Library" must include any data and utility programs needed for reproducing the executable from it. However, as a special exception, the materials to be distributed need not include anything that is normally distributed (in either source or binary form) with the major components (compiler, kernel, and so on) of the operating system on which the executable runs, unless that component itself accompanies the executable.
-
-It may happen that this requirement contradicts the license restrictions of other proprietary libraries that do not normally accompany the operating system. Such a contradiction means you cannot use both them and the Library together in an executable that you distribute.
-
-    You may place library facilities that are a work based on the Library side-by-side in a single
-    library together with other library facilities not covered by this License, and distribute such
-    a combined library, provided that the separate distribution of the work based on the Library and
-    of the other library facilities is otherwise permitted, and provided that you do these two things:
-
-a) Accompany the combined library with a copy of the same work
-based on the Library, uncombined with any other library
-facilities.  This must be distributed under the terms of the
-Sections above.
-
-b) Give prominent notice with the combined library of the fact
-that part of it is a work based on the Library, and explaining
-where to find the accompanying uncombined form of the same work.
-
-    You may not copy, modify, sublicense, link with, or distribute the Library except as expressly
-    provided under this License. Any attempt otherwise to copy, modify, sublicense, link with, or
-    distribute the Library is void, and will automatically terminate your rights under this License.
-    However, parties who have received copies, or rights, from you under this License will not have
-    their licenses terminated so long as such parties remain in full compliance.
+Uma vez feita esta mudança em uma determinada cópia, ela é irreversível para aquela cópia, de modo que a Licença Pública Geral GNU comum se aplica a todas as cópias subseqüentes e trabalhos derivados feitos a partir daquela cópia.
+
+Esta opção é útil quando você deseja copiar parte do código da Biblioteca em um programa que não é uma biblioteca.
+
+    Você pode copiar e distribuir a Biblioteca (ou uma parte ou derivada dela, sob a Seção 2)
+    em código objeto ou de forma executável nos termos das Seções 1 e 2 acima, desde que
+    você o acompanha com o código fonte correspondente completo legível por máquina, que 
+    devem ser distribuídos nos termos das Seções 1 e 2 acima em um meio normalmente utilizado
+    para intercâmbio de software.
+
+Se a distribuição de código objeto for feita oferecendo acesso à cópia de um local designado, então oferecer acesso equivalente para copiar o código fonte do mesmo local satisfaz a exigência de distribuir o código fonte, mesmo que terceiros não sejam obrigados a copiar a fonte junto com o código objeto.
+
+    Um programa que não contém derivados de nenhuma parte da Biblioteca, mas é projetado para
+    trabalhar com a Biblioteca por ser compilada ou ligada a ela, é chamada de "obra que usa a Biblioteca".
+    Tal obra, isoladamente, não é uma obra derivada da Biblioteca e, portanto, cai 
+    fora do escopo desta Licença.
+
+Entretanto, a ligação de uma "obra que usa a Biblioteca" com a Biblioteca cria um executável que é um derivado da Biblioteca (porque contém partes da Biblioteca), ao invés de uma "obra que usa a Biblioteca". O executável é, portanto, coberto por esta Licença. A Seção 6 estabelece os termos para a distribuição de tais executáveis.
+
+Quando uma "obra que usa a Biblioteca" usa material de um arquivo de cabeçalho que é parte da Biblioteca, o código objeto para a obra pode ser uma obra derivada da Biblioteca mesmo que o código fonte não seja. Se isto é verdade é especialmente significativo se a obra pode ser ligada sem a Biblioteca, ou se a obra em si é uma biblioteca. O limite para que isto seja verdade não é definido com precisão por lei.
+
+Se tal arquivo objeto usa apenas parâmetros numéricos, layouts de estrutura de dados e acessores, e pequenas macros e pequenas funções em linha (dez linhas ou menos de comprimento), então o uso do arquivo objeto é irrestrito, independentemente de ser legalmente uma obra derivada. (Os executáveis contendo este código objeto mais partes da Biblioteca ainda se enquadrarão na Seção 6).
+
+Caso contrário, se a obra for um derivado da Biblioteca, você poderá distribuir o código objeto da obra sob os termos da Seção 6. Quaisquer executáveis contendo essa obra também se enquadram na Seção 6, quer estejam ou não ligados diretamente à própria Biblioteca.
+
+    Como uma exceção às Seções acima, você também pode combinar ou vincular uma "obra que usa a
+    Biblioteca" com a Biblioteca para produzir uma obra contendo porções da Biblioteca, e 
+    distribuir esse trabalho nos termos de sua escolha, desde que os termos permitam modificações
+    do trabalho para uso próprio do cliente e engenharia reversa para a depuração de tais modificações.
+
+A cada cópia da obra deve ser dado aviso destacado de que a Biblioteca é usada nela e que a Biblioteca e seu uso são cobertos por esta Licença. Você deve fornecer uma cópia desta Licença. Se a obra durante a execução exibir avisos de direitos autorais, você deverá incluir o aviso de direitos autorais da Biblioteca entre eles, bem como uma referência que direcione o usuário para a cópia desta Licença. Além disso, você deve fazer uma destas coisas:
+
+a) Acompanhar a obra com o correspondente completo
+código fonte legível por máquina para a Biblioteca, incluindo qualquer
+mudanças foram utilizadas no trabalho (que devem ser distribuídas sob
+Se a obra for um executável vinculado
+com a Biblioteca, com o completo "trabalho que pode ser lido pela máquina".
+usa a Biblioteca", como código objeto e/ou código fonte, para que o
+usuário pode modificar a Biblioteca e, em seguida, fazer a ligação para produzir um
+executável contendo a Biblioteca modificada.  (Entende-se
+que o usuário que muda o conteúdo dos arquivos de definições no
+A biblioteca não será necessariamente capaz de recompilar a aplicação
+para usar as definições modificadas).
+
+b) Utilizar um mecanismo adequado de biblioteca compartilhada para se conectar com o
+Biblioteca.  Um mecanismo adequado é aquele que (1) utiliza em tempo de execução um
+cópia da biblioteca já presente no sistema informático do usuário,
+em vez de copiar as funções da biblioteca para o executável, e (2)
+funcionará corretamente com uma versão modificada da biblioteca, se
+o usuário instala uma, desde que a versão modificada seja
+interface compatível com a versão com a qual o trabalho foi feito.
+
+c) Acompanhar o trabalho com uma oferta por escrito, válida para
+pelo menos três anos, para dar ao mesmo usuário os materiais
+especificado na subseção 6a, acima, por uma taxa não mais
+do que o custo de realizar esta distribuição.
+
+d) Se a distribuição da obra for feita oferecendo acesso à cópia
+a partir de um local designado, oferecer acesso equivalente para copiar o acima
+materiais especificados do mesmo local.
+
+e) Verificar que o usuário já tenha recebido uma cópia destes
+materiais ou que você já tenha enviado uma cópia a este usuário.
+
+Para um executável, a forma requerida da "obra que usa a Biblioteca" deve incluir quaisquer dados e programas utilitários necessários para a reprodução do executável a partir dele. Entretanto, como exceção especial, os materiais a serem distribuídos não precisam incluir nada que seja normalmente distribuído (seja na forma fonte ou binária) com os principais componentes (compilador, kernel, etc.) do sistema operacional no qual o executável roda, a menos que esse componente acompanhe o executável em si.
+
+Pode acontecer que esta exigência contradiga as restrições de licença de outras bibliotecas proprietárias que normalmente não acompanham o sistema operacional. Tal contradição significa que você não pode usar ambos e a Biblioteca juntos em um executável que você distribui.
+
+    Você pode colocar instalações da biblioteca que são uma obra baseada na Biblioteca lado a lado em um único
+    biblioteca juntamente com outras instalações da biblioteca não cobertas por esta Licença, e distribuir tais
+    uma biblioteca combinada, desde que a distribuição separada do trabalho com base na Biblioteca e
+    das outras instalações da biblioteca é de outra forma permitido, e desde que você faça estas duas coisas:
+
+a) Acompanhar a biblioteca combinada com uma cópia da mesma obra
+com base na Biblioteca, não combinada com qualquer outra biblioteca
+instalações.  Isto deve ser distribuído de acordo com os termos do
+Seções acima.
+
+b) Avisar de forma proeminente com a biblioteca combinada do fato
+que parte dela é um trabalho baseado na Biblioteca, e explicando
+onde encontrar a forma não combinada que acompanha o mesmo trabalho.
+
+    Você não pode copiar, modificar, sublicenciar, vincular ou distribuir a Biblioteca, exceto se expressamente
+    fornecido sob esta licença. Qualquer outra tentativa de copiar, modificar, sublicenciar, vincular-se a, ou
+    distribuir a Biblioteca é nula, e automaticamente encerrará seus direitos sob esta Licença.
+    Entretanto, as partes que tiverem recebido cópias, ou direitos, de você sob esta Licença, não terão
+    suas licenças terminaram enquanto tais partes permanecerem em total conformidade.
 
-    You are not required to accept this License, since you have not signed it. However, nothing else
-    grants you permission to modify or distribute the Library or its derivative works. These actions
-    are prohibited by law if you do not accept this License. Therefore, by modifying or distributing
-    the Library (or any work based on the Library), you indicate your acceptance of this License to 
-    do so, and all its terms and conditions for copying, distributing or modifying the Library or
-    works based on it.
+    Você não é obrigado a aceitar esta Licença, uma vez que não a assinou. No entanto, nada mais
+    concede permissão para modificar ou distribuir a Biblioteca ou suas obras derivadas. Estas ações
+    são proibidos por lei se você não aceitar esta Licença. Portanto, ao modificar ou distribuir
+    a Biblioteca (ou qualquer trabalho baseado na Biblioteca), você indica sua aceitação desta Licença para 
+    fazê-lo, e todos os seus termos e condições para copiar, distribuir ou modificar a Biblioteca ou
+    trabalha com base nisso.
 
-    Each time you redistribute the Library (or any work based on the Library), the recipient 
-    automatically receives a license from the original licensor to copy, distribute, link with or
-    modify the Library subject to these terms and conditions. You may not impose any further 
-    restrictions on the recipients' exercise of the rights granted herein. You are not responsible for
-    enforcing compliance by third parties with this License.
+    Cada vez que você redistribui a Biblioteca (ou qualquer obra baseada na Biblioteca), o destinatário 
+    recebe automaticamente uma licença do licenciador original para copiar, distribuir, vincular ou
+    modificar a Biblioteca sujeita a estes termos e condições. Você não pode impor mais 
+    restrições ao exercício pelos destinatários dos direitos aqui concedidos. Você não é responsável por
+    obrigando o cumprimento desta Licença por terceiros.
 
-    If, as a consequence of a court judgment or allegation of patent infringement or for any other
-    reason (not limited to patent issues), conditions are imposed on you (whether by court order,
-    agreement or otherwise) that contradict the conditions of this License, they do not excuse you
-    from the conditions of this License. If you cannot distribute so as to satisfy simultaneously 
-    your obligations under this License and any other pertinent obligations, then as a consequence
-    you may not distribute the Library at all. For example, if a patent license would not permit 
-    royalty-free redistribution of the Library by all those who receive copies directly or indirectly
-    through you, then the only way you could satisfy both it and this License would be to refrain 
-    entirely from distribution of the Library.
+    Se, como conseqüência de uma sentença judicial ou alegação de infração de patente ou por qualquer outro
+    razão (não limitada a questões de patentes), as condições são impostas a você (seja por ordem judicial,
+    acordo ou não) que contradizem as condições desta Licença, eles não o desculpam
+    das condições desta Licença. Se você não puder distribuir de modo a satisfazer simultaneamente 
+    suas obrigações sob esta Licença e quaisquer outras obrigações pertinentes, então como conseqüência
+    você não pode distribuir a Biblioteca de forma alguma. Por exemplo, se uma licença de patente não permitisse 
+    redistribuição livre de royalties da Biblioteca por todos aqueles que recebem cópias direta ou indiretamente
+    através de você, então a única maneira de satisfazê-lo e esta Licença seria se abster 
+    inteiramente da distribuição da Biblioteca.
 
-If any portion of this section is held invalid or unenforceable under any particular circumstance, the balance of the section is intended to apply, and the section as a whole is intended to apply in other circumstances.
+Se qualquer parte desta seção for considerada inválida ou inaplicável sob qualquer circunstância particular, o restante da seção se aplica, e a seção como um todo se aplica em outras circunstâncias.
 
-It is not the purpose of this section to induce you to infringe any patents or other property right claims or to contest validity of any such claims; this section has the sole purpose of protecting the integrity of the free software distribution system which is implemented by public license practices. Many people have made generous contributions to the wide range of software distributed through that system in reliance on consistent application of that system; it is up to the author/donor to decide if he or she is willing to distribute software through any other system and a licensee cannot impose that choice.
+O objetivo desta seção não é induzir o usuário a infringir quaisquer patentes ou outras reivindicações de direitos de propriedade ou contestar a validade de tais reivindicações; esta seção tem o único propósito de proteger a integridade do sistema de distribuição de software livre que é implementado por práticas de licença pública. Muitas pessoas fizeram contribuições generosas para a ampla gama de software distribuído através desse sistema, com base na aplicação consistente desse sistema; cabe ao autor/doador decidir se está disposto a distribuir software através de qualquer outro sistema e um licenciado não pode impor essa escolha.
 
-This section is intended to make thoroughly clear what is believed to be a consequence of the rest of this License.
+Esta seção pretende deixar bem claro o que se acredita ser uma conseqüência do restante desta Licença.
 
-    If the distribution and/or use of the Library is restricted in certain countries either by 
-    patents or by copyrighted interfaces, the original copyright holder who places the Library 
-    under this License may add an explicit geographical distribution limitation excluding those
-    countries, so that distribution is permitted only in or among countries not thus excluded.
-    In such case, this License incorporates the limitation as if written in the body of this License.
+    Se a distribuição e/ou uso da Biblioteca for restringido em certos países, seja por 
+    patentes ou por interfaces protegidas por direitos autorais, o titular original dos direitos autorais que coloca a Biblioteca 
+    sob esta Licença pode acrescentar uma limitação explícita de distribuição geográfica, excluindo aquelas
+    países, de modo que a distribuição é permitida somente em ou entre países não excluídos desta forma.
+    Neste caso, esta Licença incorpora a limitação como se estivesse escrita no corpo desta Licença.
 
-    The Free Software Foundation may publish revised and/or new versions of the 
-    Lesser General Public License from time to time. Such new versions will be similar in
-    spirit to the present version, but may differ in detail to address new problems or concerns.
+    A Free Software Foundation pode publicar versões revisadas e/ou novas versões da 
+    Licença Pública Geral Menor de vez em quando. Tais novas versões serão similares em
+    espírito à presente versão, mas pode diferir em detalhes para tratar de novos problemas ou preocupações.
 
-Each version is given a distinguishing version number. If the Library specifies a version number of this License which applies to it and "any later version", you have the option of following the terms and conditions either of that version or of any later version published by the Free Software Foundation. If the Library does not specify a license version number, you may choose any version ever published by the Free Software Foundation.
+A cada versão é dado um número de versão distinto. Se a Biblioteca especificar um número de versão desta Licença que se aplique a ela e "qualquer versão posterior", você tem a opção de seguir os termos e condições tanto daquela versão quanto de qualquer versão posterior publicada pela Free Software Foundation. Se a Biblioteca não especificar um número de versão da licença, você poderá escolher qualquer versão já publicada pela Free Software Foundation.
 
-    If you wish to incorporate parts of the Library into other free programs whose distribution
-    conditions are incompatible with these, write to the author to ask for permission.
-    For software which is copyrighted by the Free Software Foundation,
-    write to the Free Software Foundation; we sometimes make exceptions for this.
-    Our decision will be guided by the two goals of preserving the free status of 
-    all derivatives of our free software and of promoting the sharing and reuse of software generally.
+    Se você desejar incorporar partes da Biblioteca em outros programas livres cuja distribuição
+    condições são incompatíveis com estas, escreva ao autor para pedir permissão.
+    Para software que é protegido por direitos autorais pela Free Software Foundation,
+    escrever para a Free Software Foundation; às vezes fazemos exceções para isso.
+    Nossa decisão será guiada pelos dois objetivos de preservar o status de liberdade de 
+    todos os derivados de nosso software livre e de promover o compartilhamento e a reutilização de software em geral.
 
-                      NO WARRANTY
+                      SEM GARANTIA
 
-    BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE LIBRARY,
-    TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE
-    COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE LIBRARY "AS IS" WITHOUT WARRANTY OF
-    ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
-    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS
-    TO THE QUALITY AND PERFORMANCE OF THE LIBRARY IS WITH YOU. SHOULD THE LIBRARY PROVE 
-    DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+    PORQUE A BIBLIOTECA É LICENCIADA GRATUITAMENTE, NÃO HÁ GARANTIA PARA A BIBLIOTECA,
+    NA MEDIDA DO PERMITIDO PELA LEGISLAÇÃO APLICÁVEL. EXCETO QUANDO DE OUTRA FORMA INDICADO POR ESCRITO, O
+    OS DETENTORES DOS DIREITOS AUTORAIS E/OU OUTRAS PARTES FORNECEM A BIBLIOTECA "COMO ESTÁ" SEM GARANTIA DE
+    QUALQUER TIPO, EXPRESSO OU IMPLÍCITO, INCLUINDO, MAS NÃO SE LIMITANDO A, O IMPLÍCITO 
+    GARANTIAS DE COMERCIABILIDADE E ADEQUAÇÃO PARA UM DETERMINADO FIM. TODO O RISCO COMO
+    À QUALIDADE E AO DESEMPENHO DA BIBLIOTECA ESTÁ COM VOCÊ. CASO A BIBLIOTECA COMPROVE 
+    DEFEITUOSO, VOCÊ ASSUME O CUSTO DE TODA A MANUTENÇÃO, REPARO OU CORREÇÃO NECESSÁRIA.
 
-    IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT
-    HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE,
-    BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL 
-    DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED
-    TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
-    PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH
-    HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+    EM NENHUM CASO, A MENOS QUE EXIGIDO PELA LEI APLICÁVEL OU ACORDADO POR ESCRITO, QUALQUER DIREITO AUTORAL
+    TITULAR, OU QUALQUER OUTRA PARTE QUE POSSA MODIFICAR E/OU REDISTRIBUIR A BIBLIOTECA, CONFORME PERMITIDO ACIMA,
+    SER RESPONSÁVEL PERANTE VOCÊ POR DANOS, INCLUINDO QUAISQUER DANOS GERAIS, ESPECIAIS, INCIDENTAIS OU CONSEQÜENTES 
+    DANOS DECORRENTES DO USO OU DA INCAPACIDADE DE USAR A BIBLIOTECA (INCLUINDO, MAS NÃO SE LIMITANDO
+    À PERDA DE DADOS OU DADOS TORNADOS IMPRECISOS OU PERDAS SOFRIDAS POR VOCÊ OU POR TERCEIROS
+    OU UMA FALHA DA BIBLIOTECA PARA OPERAR COM QUALQUER OUTRO SOFTWARE), MESMO QUE TAL
+    TITULAR OU OUTRA PARTE FOI AVISADA SOBRE A POSSIBILIDADE DE TAIS DANOS.
 
-               END OF TERMS AND CONDITIONS
+               FIM DOS TERMOS E CONDIÇÕES
 
-     How to Apply These Terms to Your New Libraries
+     Como aplicar estes termos a suas novas bibliotecas
 
-If you develop a new library, and you want it to be of the greatest possible use to the public, we recommend making it free software that everyone can redistribute and change. You can do so by permitting redistribution under these terms (or, alternatively, under the terms of the ordinary General Public License).
+Se você desenvolver uma nova biblioteca, e quiser que ela seja da maior utilidade possível para o público, recomendamos torná-la um software gratuito que todos possam redistribuir e mudar. Você pode fazer isso permitindo a redistribuição sob estes termos (ou, alternativamente, sob os termos da Licença Pública Geral Comum).
 
-To apply these terms, attach the following notices to the library. It is safest to attach them to the start of each source file to most effectively convey the exclusion of warranty; and each file should have at least the "copyright" line and a pointer to where the full notice is found.
+Para aplicar estes termos, anexe os seguintes avisos à biblioteca. É mais seguro anexá-los ao início de cada arquivo fonte para transmitir mais efetivamente a exclusão da garantia; e cada arquivo deve ter pelo menos a linha "copyright" e um ponteiro para onde o aviso completo é encontrado.
 
-<one line to give the library's name and a brief idea of what it does.>
-Copyright (C) <year>  <name of author>
+<uma linha para dar o nome da biblioteca e uma breve idéia do que ela faz.>
+Copyright (C) <ano> <nome do autor>
 
-This library is free software; you can redistribute it and/or
-modify it under the terms of the GNU Lesser General Public
-License as published by the Free Software Foundation; either
-version 2.1 of the License, or (at your option) any later version.
+Esta biblioteca é um software livre; você pode redistribuí-lo e/ou
+modificá-lo sob os termos do GNU Lesser General Public
+Licença conforme publicada pela Free Software Foundation; ou
+versão 2.1 da Licença, ou (a seu critério) qualquer versão posterior.
 
-This library is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-Lesser General Public License for more details.
+Esta biblioteca é distribuída na esperança de que ela seja útil,
+mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de
+MERCANTABILIDADE ou ADEQUAÇÃO PARA UM FINAL PARTICULAR.  Veja o GNU
+Licença Pública Geral Menor para mais detalhes.
 
-You should have received a copy of the GNU Lesser General Public
-License along with this library; if not, write to the Free Software
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
-USA
+Você deve ter recebido uma cópia da Licença Pública Geral Menor GNU
+Licença junto com esta biblioteca; se não, escreva para o Software Livre
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301
+EUA
 
-Also add information on how to contact you by electronic and paper mail.
+Acrescente também informações sobre como contatá-lo por correio eletrônico e papel.
 
-You should also get your employer (if you work as a programmer) or your school, if any, to sign a "copyright disclaimer" for the library, if necessary. Here is a sample; alter the names:
+Você também deve conseguir que seu empregador (se você trabalha como programador) ou sua escola, se houver, assine uma "isenção de direitos autorais" para a biblioteca, se necessário. Aqui está um exemplo; altere os nomes:
 
-Yoyodyne, Inc., hereby disclaims all copyright interest in the library `Frob' (a library for tweaking knobs) written by James Random Hacker.
+Yoyodyne, Inc., por meio deste documento, renuncia a todo interesse de direitos autorais na biblioteca `Frob' (uma biblioteca para ajustes de botões) escrita por James Random Hacker.
 
-, 1 April 1990 Ty Coon, President of Vice
+Em 1 de abril de 1990, Ty Coon, Presidente da Vice
 
-That's all there is to it!
+É tudo o que há para fazer!

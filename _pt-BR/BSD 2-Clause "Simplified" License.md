@@ -1,30 +1,30 @@
 BSD 2-Clause License
 
-Copyright (c) <year>, <name of author> All rights reserved.
+Copyright (c) <ano>, <nome do autor> Todos os direitos reservados.
 
-Redistribution and use in source and binary forms, with or 
-    without modification, are permitted provided that the 
-    following conditions are met:
+Redistribuição e uso em fontes e formulários binários, com ou 
+    sem modificações, são permitidas desde que o 
+    As seguintes condições são cumpridas:
 
-    1. Redistributions of source code must retain the above 
-    copyright notice, this list of conditions and the following
-    disclaimer.
+    1. Redistribuições do código fonte devem reter as condições acima 
+    aviso de direitos autorais, esta lista de condições e as seguintes
+    isenção de responsabilidade.
 
-    2. Redistributions in binary form must reproduce the above
-    copyright notice, this list of conditions and the following
-    disclaimer in the documentation and/or other materials 
-    provided with the distribution.
+    2. Redistribuições em formato binário devem reproduzir o acima
+    aviso de direitos autorais, esta lista de condições e as seguintes
+    isenção de responsabilidade na documentação e/ou outros materiais 
+    fornecido com a distribuição.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
-    BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
-    AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
-    IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-    FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
-    OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-    PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-    ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-    STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
-    ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
-    EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ESTE SOFTWARE É FORNECIDO PELOS DETENTORES DOS DIREITOS AUTORAIS E CONTRIBUINTES
+    "COMO ESTÁ" E QUAISQUER GARANTIAS EXPRESSAS OU IMPLÍCITAS, INCLUSIVE,
+    MAS NÃO LIMITADAS ÀS GARANTIAS IMPLÍCITAS DE COMERCIABILIDADE
+    E ADEQUAÇÃO A UM DETERMINADO PROPÓSITO SÃO RENUNCIADAS.
+    EM NENHUMA HIPÓTESE O TITULAR DOS DIREITOS AUTORAIS OU CONTRIBUIDORES SERÃO RESPONSÁVEIS
+    PARA QUALQUER DIRETA, INDIRETA, INCIDENTAL, ESPECIAL, EXEMPLAR,
+    OU DANOS CONSEQÜENTES (INCLUINDO, MAS NÃO SE LIMITANDO A,
+    AQUISIÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS; PERDA DE USO,
+    DADOS, OU LUCROS; OU INTERRUPÇÃO DE NEGÓCIOS), NO ENTANTO, CAUSOU E
+    SOBRE QUALQUER TEORIA DE RESPONSABILIDADE, SEJA EM CONTRATO,
+    RESPONSABILIDADE ESTRITA, OU DELITO CIVIL (INCLUINDO NEGLIGÊNCIA OU OUTRO) 
+    SURGINDO DE QUALQUER FORMA FORA DO USO DESTE SOFTWARE,
+    MESMO SE AVISADO DA POSSIBILIDADE DE TAIS DANOS.

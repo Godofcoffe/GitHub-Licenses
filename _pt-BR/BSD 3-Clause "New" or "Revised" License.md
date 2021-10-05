@@ -1,35 +1,35 @@
 BSD 3-Clause License
 
-Copyright (c) <year>, <name of author> All rights reserved.
+Copyright (c) <ano>, <nome do autor> Todos os direitos reservados.
 
-Redistribution and use in source and binary forms, with or 
-    without modification, are permitted provided that the 
-    following conditions are met:
+Redistribuição e uso em fontes e formulários binários, com ou 
+    sem modificações, são permitidas desde que o 
+    As seguintes condições são atendidas:
 
-    1. Redistributions of source code must retain the above
-    copyright notice, this list of conditions and the 
-    following disclaimer.
+    1. Redistribuições do código fonte devem reter as condições acima
+    aviso de direitos autorais, esta lista de condições e o 
+    após a renúncia de responsabilidade.
 
-    2. Redistributions in binary form must reproduce the 
-    above copyright notice, this list of conditions and the
-    following disclaimer in the documentation and/or other 
-    materials provided with the distribution.
+    2. Redistribuições em formato binário devem reproduzir o 
+    acima do aviso de direitos autorais, esta lista de condições e o
+    seguintes isenções de responsabilidade na documentação e/ou outros 
+    materiais fornecidos com a distribuição.
 
-    3. Neither the name of the copyright holder nor the names
-    of its contributors may be used to endorse or promote 
-    products derived from this software without specific 
-    prior written permission.
+    3. Nem o nome do detentor dos direitos autorais nem os nomes
+    de seus colaboradores podem ser usados para endossar ou promover 
+    produtos derivados deste software sem 
+    permissão prévia por escrito.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
-    BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
-    AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
-    IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
-    LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
-    EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
-    BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-    LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
-    HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
-    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT 
-    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF 
-    THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ESTE SOFTWARE É FORNECIDO PELOS DETENTORES DOS DIREITOS AUTORAIS E CONTRIBUINTES
+    "COMO ESTÁ" E QUAISQUER GARANTIAS EXPRESSAS OU IMPLÍCITAS, INCLUSIVE,
+    MAS NÃO LIMITADAS ÀS GARANTIAS IMPLÍCITAS DE COMERCIABILIDADE
+    E ADEQUAÇÃO A UM DETERMINADO PROPÓSITO SÃO RENUNCIADAS.
+    EM NENHUMA HIPÓTESE O DETENTOR DOS DIREITOS AUTORAIS OU CONTRIBUINTE
+    RESPONSÁVEL POR QUALQUER DIRETA, INDIRETA, INCIDENTAL, ESPECIAL, 
+    DANOS EXEMPLARES, OU CONSEQÜENTES (INCLUINDO,
+    MAS NÃO LIMITADO A, AQUISIÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS;
+    PERDA DE USO, DE DADOS OU DE LUCROS; OU INTERRUPÇÃO DE NEGÓCIOS) 
+    NO ENTANTO, CAUSOU E EM QUALQUER TEORIA DE RESPONSABILIDADE,
+    SEJA EM CONTRATO, RESPONSABILIDADE ESTRITA, OU DELITO 
+    (INCLUINDO NEGLIGÊNCIA OU DE OUTRA FORMA) QUE SURJAM DE QUALQUER FORMA FORA DO 
+    O USO DESTE SOFTWARE, MESMO SE AVISADO DA POSSIBILIDADE DE TAIS DANOS.
