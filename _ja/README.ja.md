@@ -1,8 +1,8 @@
 # GitHub-Licenses
 
-A handful of license templates available on GitHub without modification.
+GitHubでそのまま利用できる、一握りのライセンステンプレート。
 
-Choose the license for your project quickly and affordably:
+あなたのプロジェクトに合ったライセンスを迅速かつ安価に選択できます。
 
 * [Apache](https://github.com/Godofcoffe/GitHub-Licenses/blob/main/Apache%20License%202.0.md)
 

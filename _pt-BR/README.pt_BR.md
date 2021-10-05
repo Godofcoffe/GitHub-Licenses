@@ -1,8 +1,8 @@
 # GitHub-Licenses
 
-A handful of license templates available on GitHub without modification.
+Um punhado de modelos de licença disponíveis no GitHub sem modificações.
 
-Choose the license for your project quickly and affordably:
+Escolha a licença para seu projeto de forma rápida e acessível:
 
 * [Apache](https://github.com/Godofcoffe/GitHub-Licenses/blob/main/Apache%20License%202.0.md)
 
