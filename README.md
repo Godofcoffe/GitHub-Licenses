@@ -1,5 +1,13 @@
 # GitHub-Licenses
 
+Other languages:
+
+<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](_pt-BR/README.pt_BR.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](_es/README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](_fr/README.fr.md)</kbd>
+<kbd>[<img title="Italiano" alt="Italiano" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/it.svg" width="22">](_it/README.it.md)</kbd>
+<kbd>[<img title="日本語" alt="日本語" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](_ja/README.ja.md)</kbd>
+
 A handful of license templates available on GitHub without modification.
 
 Choose the license for your project quickly and affordably:
