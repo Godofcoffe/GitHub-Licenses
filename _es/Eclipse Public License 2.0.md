@@ -1,106 +1,106 @@
-Eclipse Public License - v 2.0
+Licencia pública Eclipse - v 2.0
 
-THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
-PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION
-OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+EL PROGRAMA ADJUNTO SE PROPORCIONA BAJO LOS TÉRMINOS DE ESTA LICENCIA PÚBLICA ECLIPSE
+LICENCIA PÚBLICA ("ACUERDO"). CUALQUIER USO, REPRODUCCIÓN O DISTRIBUCIÓN
+DEL PROGRAMA CONSTITUYE LA ACEPTACIÓN DE ESTE ACUERDO POR PARTE DEL DESTINATARIO.
 
-    DEFINITIONS
+    DEFINICIONES
 
-"Contribution" means:
+"Contribución" significa
 
-a) in the case of the initial Contributor, the initial content Distributed under this Agreement, and
+a) en el caso del Colaborador inicial, el contenido inicial Distribuido en virtud de este Acuerdo, y
 
-b) in the case of each subsequent Contributor: i) changes to the Program, and ii) additions to the Program; where such changes and/or additions to the Program originate from and are Distributed by that particular Contributor. A Contribution "originates" from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf. Contributions do not include changes or additions to the Program that are not Modified Works.
+b) en el caso de cada Colaborador posterior: i) los cambios en el Programa, y ii) las adiciones al Programa; cuando dichos cambios y/o adiciones al Programa se originen y sean Distribuidos por ese Colaborador en particular. Una Contribución "procede" de un Colaborador si fue añadida al Programa por el propio Colaborador o por cualquier persona que actúe en su nombre. Las contribuciones no incluyen cambios o adiciones al Programa que no sean Trabajos Modificados.
 
-"Contributor" means any person or entity that Distributes the Program.
+"Colaborador" significa cualquier persona o entidad que distribuya el Programa.
 
-"Licensed Patents" mean patent claims licensable by a Contributor which are necessarily infringed by the use or sale of its Contribution alone or when combined with the Program.
+"Patentes licenciadas" significa las reivindicaciones de patentes licenciables por un Colaborador que necesariamente se infringen por el uso o la venta de su Contribución sola o cuando se combina con el Programa.
 
-"Program" means the Contributions Distributed in accordance with this Agreement.
+"Programa" significa las Contribuciones Distribuidas de conformidad con este Acuerdo.
 
-"Recipient" means anyone who receives the Program under this Agreement or any Secondary License (as applicable), including Contributors.
+"Destinatario" significa cualquier persona que reciba el Programa en virtud de este Acuerdo o de cualquier Licencia Secundaria (según corresponda), incluidos los Colaboradores.
 
-"Derivative Works" shall mean any work, whether in Source Code or other form, that is based on (or derived from) the Program and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
+"Trabajos Derivados" significará cualquier trabajo, ya sea en Código Fuente o en otra forma, que esté basado en (o derivado de) el Programa y para el cual las revisiones editoriales, anotaciones, elaboraciones u otras modificaciones representen, en su conjunto, un trabajo original de autoría.
 
-"Modified Works" shall mean any work in Source Code or other form that results from an addition to, deletion from, or modification of the contents of the Program, including, for purposes of clarity any new file in Source Code form that contains any contents of the Program. Modified Works shall not include works that contain only declarations, interfaces, types, classes, structures, or files of the Program solely in each case in order to link to, bind by name, or subclass the Program or Modified Works thereof.
+"Trabajos modificados" significará cualquier trabajo en Código Fuente o en otra forma que resulte de una adición, eliminación o modificación de los contenidos del Programa, incluyendo, a efectos de claridad, cualquier archivo nuevo en forma de Código Fuente que contenga cualquier contenido del Programa. Los Trabajos Modificados no incluirán trabajos que contengan únicamente declaraciones, interfaces, tipos, clases, estructuras o archivos del Programa, únicamente en cada caso con el fin de enlazar, vincular por nombre o subclasificar el Programa o los Trabajos Modificados del mismo.
 
-"Distribute" means the acts of a) distributing or b) making available in any manner that enables the transfer of a copy.
+"Distribuir" significa los actos de a) distribuir o b) poner a disposición de cualquier manera que permita la transferencia de una copia.
 
-"Source Code" means the form of a Program preferred for making modifications, including but not limited to software source code, documentation source, and configuration files.
+"Código fuente" significa la forma de un Programa preferida para realizar modificaciones, incluyendo pero no limitándose al código fuente del software, la fuente de la documentación y los archivos de configuración.
 
-"Secondary License" means either the GNU General Public License, Version 2.0, or any later versions of that license, including any exceptions or additional permissions as identified by the initial Contributor.
+"Licencia secundaria" significa la Licencia Pública General GNU, Versión 2.0, o cualquier versión posterior de dicha licencia, incluyendo cualquier excepción o permiso adicional identificado por el Colaborador inicial.
 
-    GRANT OF RIGHTS
+    CONCESIÓN DE DERECHOS
 
-a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, Distribute and sublicense the Contribution of such Contributor, if any, and such Derivative Works.
+a) Sujeto a los términos de este Acuerdo, cada Colaborador concede al Destinatario una licencia no exclusiva, mundial y libre de derechos de autor para reproducir, preparar Obras Derivadas, exhibir públicamente, ejecutar públicamente, Distribuir y sublicenciar la Contribución de dicho Colaborador, si la hubiera, y dichas Obras Derivadas.
 
-b) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import and otherwise transfer the Contribution of such Contributor, if any, in Source Code or other form. This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents. The patent license shall not apply to any other combinations which include the Contribution. No hardware per se is licensed hereunder.
+b) Sujeto a los términos de este Acuerdo, cada Colaborador concede al Destinatario una licencia de patente no exclusiva, mundial y libre de regalías en virtud de las Patentes Autorizadas para hacer, usar, vender, ofrecer para vender, importar y transferir de cualquier otra forma la Contribución de dicho Colaborador, si la hubiera, en Código Fuente o en otra forma. Esta licencia de patente se aplicará a la combinación de la Contribución y el Programa si, en el momento en que el Contribuyente añada la Contribución, dicha adición de la Contribución hace que dicha combinación esté cubierta por las Patentes con Licencia. La licencia de patente no se aplicará a ninguna otra combinación que incluya la Contribución. No se concede una licencia de hardware per se en virtud del presente documento.
 
-c) Recipient understands that although each Contributor grants the licenses to its Contributions set forth herein, no assurances are provided by any Contributor that the Program does not infringe the patent or other intellectual property rights of any other entity. Each Contributor disclaims any liability to Recipient for claims brought by any other entity based on infringement of intellectual property rights or otherwise. As a condition to exercising the rights and licenses granted hereunder, each Recipient hereby assumes sole responsibility to secure any other intellectual property rights needed, if any. For example, if a third party patent license is required to allow Recipient to Distribute the Program, it is Recipient's responsibility to acquire that license before distributing the Program.
+c) El Destinatario entiende que, aunque cada Colaborador concede las licencias de sus Contribuciones establecidas en el presente documento, ningún Colaborador garantiza que el Programa no infrinja la patente u otros derechos de propiedad intelectual de cualquier otra entidad. Cada Colaborador renuncia a cualquier responsabilidad ante el Destinatario por las reclamaciones presentadas por cualquier otra entidad basadas en la infracción de los derechos de propiedad intelectual o de otro tipo. Como condición para el ejercicio de los derechos y licencias concedidos en el presente documento, cada Destinatario asume la responsabilidad exclusiva de garantizar cualquier otro derecho de propiedad intelectual necesario, si lo hubiera. Por ejemplo, si se requiere una licencia de patente de terceros para que el Destinatario pueda distribuir el Programa, es responsabilidad del Destinatario adquirir dicha licencia antes de distribuir el Programa.
 
-d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, if any, to grant the copyright license set forth in this Agreement.
+d) Cada Colaborador declara que, según su conocimiento, tiene suficientes derechos de autor sobre su Contribución, si la hubiera, para conceder la licencia de derechos de autor establecida en este Acuerdo.
 
-e) Notwithstanding the terms of any Secondary License, no Contributor makes additional grants to any Recipient (other than those set forth in this Agreement) as a result of such Recipient's receipt of the Program under the terms of a Secondary License (if permitted under the terms of Section 3).
+e) Sin perjuicio de los términos de cualquier Licencia Secundaria, ningún Colaborador realiza concesiones adicionales a ningún Destinatario (distintas de las establecidas en este Acuerdo) como resultado de la recepción del Programa por parte de dicho Destinatario en virtud de los términos de una Licencia Secundaria (si está permitido según los términos de la Sección 3).
 
-    REQUIREMENTS
+    REQUISITOS
 
-3.1 If a Contributor Distributes the Program in any form, then:
+3.1 Si un Colaborador distribuye el Programa en cualquier forma, entonces
 
-a) the Program must also be made available as Source Code, in accordance with section 3.2, and the Contributor must accompany the Program with a statement that the Source Code for the Program is available under this Agreement, and informs Recipients how to obtain it in a reasonable manner on or through a medium customarily used for software exchange; and
+a) el Programa también debe estar disponible como Código Fuente, de acuerdo con la sección 3.2, y el Contribuyente debe acompañar el Programa con una declaración de que el Código Fuente del Programa está disponible en virtud de este Acuerdo, e informa a los Destinatarios de cómo obtenerlo de manera razonable en o a través de un medio habitualmente utilizado para el intercambio de software; y
 
-b) the Contributor may Distribute the Program under a license different than this Agreement, provided that such license: i) effectively disclaims on behalf of all other Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
+b) el Contribuyente puede Distribuir el Programa bajo una licencia diferente a la de este Acuerdo, siempre que dicha licencia: i) renuncie efectivamente en nombre de todos los demás Contribuyentes a todas las garantías y condiciones, expresas e implícitas, incluidas las garantías o condiciones de titularidad y no infracción, y las garantías o condiciones implícitas de comerciabilidad e idoneidad para un fin determinado;
 
- ii) effectively excludes on behalf of all other Contributors all
- liability for damages, including direct, indirect, special,
- incidental and consequential damages, such as lost profits;
+ ii) excluye efectivamente en nombre de todos los demás Colaboradores toda
+ responsabilidad por daños, incluidos los directos, indirectos, especiales
+ incidentales y consecuentes, como el lucro cesante;
 
- iii) does not attempt to limit or alter the recipients' rights
- in the Source Code under section 3.2; and
+ iii) no intenta limitar o alterar los derechos de los destinatarios
+ en el Código Fuente según la sección 3.2; y
 
- iv) requires any subsequent distribution of the Program by any
- party to be under a license that satisfies the requirements
- of this section 3.
+ iv) requiere que cualquier distribución posterior del Programa por parte de cualquier
+ parte sea bajo una licencia que satisfaga los requisitos de esta sección 3.
+ de esta sección 3.
 
-3.2 When the Program is Distributed as Source Code:
+3.2 Cuando el Programa se distribuye como Código Fuente
 
-a) it must be made available under this Agreement, or if the Program (i) is combined with other material in a separate file or files made available under a Secondary License, and (ii) the initial Contributor attached to the Source Code the notice described in Exhibit A of this Agreement, then the Program may be made available under the terms of such Secondary Licenses, and
+a) debe ponerse a disposición bajo este Acuerdo, o si el Programa (i) se combina con otro material en un archivo o archivos separados puestos a disposición bajo una Licencia Secundaria, y (ii) el Colaborador inicial adjunta al Código Fuente la notificación descrita en el Anexo A de este Acuerdo, entonces el Programa puede ponerse a disposición bajo los términos de dichas Licencias Secundarias, y
 
-b) a copy of this Agreement must be included with each copy of the Program.
+b) se debe incluir una copia de este Acuerdo con cada copia del Programa.
 
-3.3 Contributors may not remove or alter any copyright, patent, trademark, attribution notices, disclaimers of warranty, or limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute, provided that Contributors may add their own appropriate notices.
+3.3 Los Colaboradores no pueden eliminar ni alterar ningún aviso de copyright, patente, marca comercial, atribución, renuncia de garantía o limitación de responsabilidad ("avisos") contenidos en el Programa de ninguna copia del Programa que distribuyan, siempre que los Colaboradores puedan añadir sus propios avisos apropiados.
 
-    COMMERCIAL DISTRIBUTION
+    DISTRIBUCIÓN COMERCIAL
 
-Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor may participate in any such claim at its own expense.
+Los distribuidores comerciales de software pueden aceptar ciertas responsabilidades con respecto a los usuarios finales, socios comerciales y similares. Si bien esta licencia pretende facilitar el uso comercial del Programa, el Colaborador que incluya el Programa en una oferta de producto comercial debe hacerlo de manera que no cree una responsabilidad potencial para otros Colaboradores. Por lo tanto, si un Colaborador incluye el Programa en una oferta de productos comerciales, dicho Colaborador ("Colaborador Comercial") se compromete por el presente documento a defender e indemnizar a todos los demás Colaboradores ("Colaborador Indemnizado") frente a cualquier pérdida, daño y coste (colectivamente "Pérdidas") derivados de reclamaciones, demandas y otras acciones legales interpuestas por un tercero contra el Colaborador Indemnizado en la medida en que sean causadas por los actos u omisiones de dicho Colaborador Comercial en relación con su distribución del Programa en una oferta de productos comerciales. Las obligaciones de esta sección no se aplican a ninguna reclamación o pérdida relacionada con cualquier infracción real o supuesta de la propiedad intelectual. Para tener derecho a la indemnización, el Colaborador Indemnizado deberá: a) notificar por escrito y sin demora al Colaborador Comercial dicha reclamación, y b) permitir al Colaborador Comercial controlar la defensa y cualquier negociación de acuerdo relacionada, y cooperar con él. El colaborador indemnizado podrá participar en cualquier reclamación de este tipo a su costa.
 
-For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor. If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a result, the Commercial Contributor must pay those damages.
+Por ejemplo, un Colaborador puede incluir el Programa en una oferta de producto comercial, el Producto X. Ese Colaborador es entonces un Colaborador Comercial. Si ese Colaborador Comercial hace entonces reclamaciones de rendimiento, u ofrece garantías relacionadas con el Producto X, esas reclamaciones de rendimiento y garantías son responsabilidad exclusiva de dicho Colaborador Comercial. En virtud de esta sección, el Colaborador Comercial tendría que defender las reclamaciones contra los otros Colaboradores relacionadas con esas reclamaciones de rendimiento y garantías, y si un tribunal exige a cualquier otro Colaborador que pague cualquier daño como resultado, el Colaborador Comercial debe pagar esos daños.
 
-    NO WARRANTY
+    NO SE OFRECE NINGUNA GARANTÍA
 
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement, including but not limited to the risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.
+SALVO LO ESTABLECIDO EXPRESAMENTE EN ESTE ACUERDO, Y EN LA MEDIDA EN QUE LO PERMITA LA LEGISLACIÓN APLICABLE, EL PROGRAMA SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO, SIN LIMITACIÓN, CUALQUIER GARANTÍA O CONDICIÓN DE TÍTULO, NO INFRACCIÓN, COMERCIABILIDAD O IDONEIDAD PARA UN FIN DETERMINADO. Cada Destinatario es el único responsable de determinar la conveniencia de utilizar y distribuir el Programa y asume todos los riesgos asociados con el ejercicio de sus derechos en virtud del presente Acuerdo, incluidos, entre otros, los riesgos y costes de los errores del programa, el cumplimiento de las leyes aplicables, los daños o la pérdida de datos, programas o equipos, y la falta de disponibilidad o la interrupción de las operaciones.
 
-    DISCLAIMER OF LIABILITY
+    EXENCIÓN DE RESPONSABILIDAD
 
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+SALVO LO ESTABLECIDO EXPRESAMENTE EN ESTE ACUERDO, Y EN LA MEDIDA EN QUE LO PERMITA LA LEGISLACIÓN APLICABLE, NI EL DESTINATARIO NI LOS COLABORADORES SERÁN RESPONSABLES DE NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENTE (INCLUIDO, SIN LIMITACIÓN, EL LUCRO CESANTE), SEA CUAL SEA LA CAUSA Y LA TEORÍA DE LA RESPONSABILIDAD, YA SEA POR CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUIDA LA NEGLIGENCIA O DE OTRO TIPO) QUE SURJA DE ALGÚN MODO DEL USO O LA DISTRIBUCIÓN DEL PROGRAMA O DEL EJERCICIO DE CUALQUIERA DE LOS DERECHOS CONCEDIDOS EN VIRTUD DEL PRESENTE, INCLUSO SI SE AVISA DE LA POSIBILIDAD DE TALES DAÑOS.
 
-    GENERAL
+    GENERALIDADES
 
-If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+Si alguna de las disposiciones de este Acuerdo es inválida o inaplicable en virtud de la legislación vigente, no afectará a la validez o aplicabilidad del resto de los términos de este Acuerdo y, sin necesidad de que las partes tomen otras medidas, dicha disposición se reformará en la medida mínima necesaria para que sea válida y aplicable.
 
-If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
+Si el Destinatario entabla un litigio sobre patentes contra cualquier entidad (incluida una demanda cruzada o una contrademanda en un juicio) alegando que el Programa en sí mismo (excluyendo las combinaciones del Programa con otro software o hardware) infringe la(s) patente(s) de dicho Destinatario, entonces los derechos de dicho Destinatario concedidos en virtud de la Sección 2(b) se extinguirán a partir de la fecha de presentación de dicho litigio.
 
-All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However, Recipient's obligations under this Agreement and any licenses granted by Recipient relating to the Program shall continue and survive.
+Todos los derechos del Destinatario en virtud del presente Acuerdo se extinguirán si no cumple con alguno de los términos o condiciones materiales del mismo y no subsana dicho incumplimiento en un plazo razonable tras tener conocimiento del mismo. Si todos los derechos del Destinatario en virtud del presente Acuerdo se extinguen, el Destinatario se compromete a dejar de utilizar y distribuir el Programa tan pronto como sea razonablemente posible. No obstante, las obligaciones del Destinatario en virtud del presente Acuerdo y cualquier licencia concedida por el Destinatario en relación con el Programa continuarán y seguirán vigentes.
 
-Everyone is permitted to copy and distribute copies of this Agreement, but in order to avoid inconsistency the Agreement is copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the initial Agreement Steward. The Eclipse Foundation may assign the responsibility to serve as the Agreement Steward to a suitable separate entity. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may always be Distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement is published, Contributor may elect to Distribute the Program (including its Contributions) under the new version.
+Todo el mundo está autorizado a copiar y distribuir copias de este Acuerdo, pero para evitar incoherencias, el Acuerdo está protegido por derechos de autor y sólo puede ser modificado de la siguiente manera. El Administrador del Acuerdo se reserva el derecho de publicar nuevas versiones (incluidas las revisiones) de este Acuerdo de vez en cuando. Nadie más que el Administrador del Acuerdo tiene derecho a modificar este Acuerdo. La Fundación Eclipse es el administrador inicial del Acuerdo. La Fundación Eclipse puede asignar la responsabilidad de actuar como administrador del Acuerdo a una entidad independiente adecuada. Cada nueva versión del Acuerdo recibirá un número de versión distintivo. El Programa (incluidas las Contribuciones) siempre podrá Distribuirse con sujeción a la versión del Acuerdo bajo la cual se recibió. Además, tras la publicación de una nueva versión del Acuerdo, el Colaborador podrá optar por Distribuir el Programa (incluyendo sus Contribuciones) bajo la nueva versión.
 
-Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are reserved. Nothing in this Agreement is intended to be enforceable by any entity that is not a Contributor or Recipient. No third-party beneficiary rights are created under this Agreement.
+A excepción de lo indicado expresamente en las Secciones 2(a) y 2(b) anteriores, el Destinatario no recibe ningún derecho o licencia sobre la propiedad intelectual de ningún Colaborador en virtud de este Acuerdo, ya sea expresamente, por implicación, impedimento o de otro modo. Quedan reservados todos los derechos del Programa que no se concedan expresamente en virtud del presente Acuerdo. Nada de lo dispuesto en este Acuerdo está destinado a ser exigible por cualquier entidad que no sea un Colaborador o Destinatario. El presente Acuerdo no crea derechos de terceros beneficiarios.
 
-Exhibit A - Form of Secondary Licenses Notice
+Anexo A - Formulario de notificación de licencias secundarias
 
-"This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth in the Eclipse Public License, v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional permissions here}."
+"Este Código Fuente también puede estar disponible bajo las siguientes Licencias Secundarias cuando se cumplan las condiciones para dicha disponibilidad establecidas en la Licencia Pública Eclipse, v. 2.0: {nombre de la(s) licencia(s), versión(es) y excepciones o permisos adicionales aquí}".
 
-Simply including a copy of this Agreement, including this Exhibit A is not sufficient to license the Source Code under Secondary Licenses.
+La simple inclusión de una copia de este Acuerdo, incluyendo este Anexo A, no es suficiente para licenciar el Código Fuente bajo Licencias Secundarias.
 
-If it is not possible or desirable to put the notice in a particular file, then You may include the notice in a location (such as a LICENSE file in a relevant directory) where a recipient would be likely to look for such a notice.
+Si no es posible o deseable poner el aviso en un archivo en particular, entonces Usted puede incluir el aviso en una ubicación (como un archivo LICENSE en un directorio relevante) donde un destinatario probablemente buscaría dicho aviso.
 
-You may add additional accurate notices of copyright ownership.
+Puede añadir avisos adicionales y precisos sobre la propiedad de los derechos de autor.
