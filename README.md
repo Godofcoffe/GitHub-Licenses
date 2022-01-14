@@ -60,7 +60,7 @@ This is the option for those who want to leave their code open but at the same t
 * Changes made to the source code must be documented.
 * If patented material is used in the creation of the software, it grants the users the right to use it. If the user sues anyone with the use of the patented material, they will lose the right to use the software.
 
-Some famous projects with this license are Bash, GIMP and Linux (GPLv2).
+Some famous projects with this license are [Bash](https://www.gnu.org/software/bash/), [GIMP](https://www.gimp.org/) e [Linux](https://us-linux.org/) (GPLv2).
 
 ## Apache License 2.0
 
@@ -72,7 +72,7 @@ This license already offers users a lot more flexibility. This is because
 * Provides the same patent usage protection as the GPLv3 we saw above.
 * It explicitly forbids the use of trademark names found in the project.
 
-Some famous projects with this license are Android, Apache and Swift.
+Some famous projects with this license are [Android](https://www.android.com/), [Apache](https://www.apache.org/) e [Swift](https://developer.apple.com/swift/)..
 
 ## Berkeley Software Distribution (BSD)
 
@@ -85,7 +85,7 @@ This is the license that React was adopting until then. It has two main versions
 * The license and usage rights need to be included in the documentation of the compiled version of the source code.
 * BSD 3-clause states that the names of authors and contributors may not be used to promote products derived from the software without explicit permission.
 
-Some famous projects with this license are Go, Pure.css and Sentry.
+Some famous projects with this license are [Go](https://golang.org/), [Pure.css](https://purecss.io/) e [Sentry](https://sentry.io/welcome/).
 
 ## MIT License
 
@@ -96,7 +96,7 @@ Finally, the MIT license. Of all those we have listed, it is the most permissive
 * Changes made to the source code do not need to be documented.
 * It has no position regarding the use of patents.
 
-One great project with this license is the Training Center itself! Besides that there are other famous ones like: jQuery, Bootstrap and Rails.
+One great project with this license is the [Training Center](https://github.com/training-center)! Besides that there are other famous ones like: [jQuery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/) and [Rails](http://rubyonrails.org/).
 
 ***
 ### References
