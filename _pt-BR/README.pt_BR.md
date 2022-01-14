@@ -52,7 +52,7 @@ Esta é a opção para aqueles que querem deixar o seu código em aberto, mas ao
 * As alterações feitas ao código-fonte devem ser documentadas.
 * Se for utilizado material patenteado na criação do software, este concede aos utilizadores o direito de o utilizar. Se o utilizador processar alguém com a utilização do material patenteado, este perderá o direito de utilizar o software.
 
-Alguns projetos famosos com esta licença são Bash, GIMP e Linux (GPLv2).
+Alguns projetos famosos com esta licença são [Bash](https://www.gnu.org/software/bash/), [GIMP](https://www.gimp.org/) e [Linux](https://br-linux.org/) (GPLv2).
 
 ## Licença Apache 2.0
 
@@ -64,7 +64,7 @@ Esta licença já oferece aos utilizadores muito mais flexibilidade. Isto é por
 * Fornece a mesma proteção de utilização de patente que a GPLv3 que vimos acima.
 * Proíbe explicitamente a utilização de nomes de marcas registadas encontradas no projeto.
 
-Alguns projetos famosos com esta licença são Android, Apache e Swift.
+Alguns projetos famosos com esta licença são [Android](https://www.android.com/), [Apache](https://www.apache.org/) e [Swift](https://developer.apple.com/swift/).
 
 ## Distribuição de Software Berkeley (BSD)
 
@@ -77,7 +77,7 @@ Esta é a licença que o React estava adotando até então. Ela possui duas vers
 * A licença e os direitos de utilização precisam de ser incluídos na documentação da versão compilada do código-fonte.
 * A cláusula BSD 3 declara que os nomes dos autores e contribuintes não podem ser utilizados para promover produtos derivados do software sem permissão explícita.
 
-Alguns projetos famosos com esta licença são Go, Pure.css e Sentry.
+Alguns projetos famosos com esta licença são [Go](https://golang.org/), [Pure.css](https://purecss.io/) e [Sentry](https://sentry.io/welcome/).
 
 ## Licença MIT
 
@@ -88,7 +88,7 @@ Finalmente, a licença do MIT. De todas as que enumeramos, é a mais permissiva 
 * As alterações feitas ao código-fonte não precisam de ser documentadas.
 * Não tem qualquer posição relativamente à utilização de patentes.
 
-Um grande projeto com esta licença é o próprio Centro de Formação! Além disso, existem outros famosos como: jQuery, Bootstrap e Rails.
+Um grande projeto com essa licença é o próprio [Training Center](https://github.com/training-center)! Além disso, há outros famosos como o: [jQuery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/) e o [Rails](http://rubyonrails.org/).
 
 ***
 ### Referências
