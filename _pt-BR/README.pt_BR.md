@@ -90,6 +90,35 @@ Finalmente, a licença do MIT. De todas as que enumeramos, é a mais permissiva 
 
 Um grande projeto com essa licença é o próprio [Training Center](https://github.com/training-center)! Além disso, há outros famosos como o: [jQuery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/) e o [Rails](http://rubyonrails.org/).
 
+## Boost License
+
+Como a licença Boost é diferente da [Licença Pública Geral GNU](https://opensource.org/licenses/gpl-license.php) (GPL)? A licença Boost permite a criação de obras derivadas para qualquer uso, sem nenhuma exigência legal para liberar seu código fonte. Outras diferenças incluem o Boost, que não exige a reprodução de mensagens de copyright para redistribuição de código objeto, e o fato de que a licença Boost não é "viral": se você distribuir seu próprio código junto com algum código Boost, a licença Boost se aplica somente ao código Boost (e suas versões modificadas); você é livre para licenciar seu próprio código sob quaisquer termos que desejar. A licença GPL também é muito mais longa e, portanto, pode ser mais difícil de entender.
+
+## Creative Commons zero v1.0 universal
+
+A pessoa que associou uma obra a esta escritura dedicou a obra ao domínio público, renunciando a todos os seus direitos à obra em todo o mundo sob a lei de direitos autorais, incluindo todos os direitos conexos e vizinhos, na medida do permitido por lei.
+
+Você pode copiar, modificar, distribuir e executar a obra, mesmo para fins comerciais, tudo sem pedir permissão.
+
+## Eclipse Public v2.0
+
+A Licença Pública Eclipse (EPL) é uma licença de software de código aberto utilizada pela Fundação Eclipse para seu software. Ela substitui a Licença Pública Comum (CPL) e remove certas condições relacionadas a litígios de patentes.
+
+A Licença Pública do Eclipse é projetada para ser uma licença de software amigável aos negócios e tem provisões mais fracas que as licenças copyleft contemporâneas, como a Licença Pública Geral GNU (GPL). O destinatário dos programas licenciados pela EPL pode usar, modificar, copiar e distribuir a obra e as versões modificadas, em alguns casos eles são obrigados a liberar suas próprias alterações.
+
+## Licença Mozilla v2.0
+
+A MPL cumpre totalmente com a definição de software de código aberto da Open Source Initiative (OSI) e com as quatro liberdades de software livre estabelecidas pela Free Software Foundation (FSF). Entretanto, a MPL deixa o caminho aberto para uma possível reutilização não-livre do software, se o usuário assim o desejar, sem restringir a reutilização do código ou relicenciamento sob a mesma licença.
+
+## The Unlicense
+
+O Unlicense é um modelo para a renúncia do monopólio de direitos autorais do software que você escreveu; em outras palavras, é um modelo para a dedicação de seu software ao domínio público. Ele combina um padrão de renúncia de direitos autorais após o projeto SQLite de domínio público muito bem sucedido com a declaração de não garantia da licença amplamente utilizada MIT/X11.
+
 ***
 ### Referências
 * [link](https://medium.com/trainingcenter/tudo-o-que-voc%C3%AA-precisa-saber-sobre-as-licen%C3%A7as-de-projetos-open-source-aaccbe23e50d)
+* [link](https://www.boost.org/users/license.html)
+* [link](https://creativecommons.org/publicdomain/zero/1.0/)
+* [link](https://es.wikipedia.org/wiki/Eclipse_Public_License)
+* [link](https://es.wikipedia.org/wiki/Mozilla_Public_License)
+* [link](https://unlicense.org/)
