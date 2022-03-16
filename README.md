@@ -114,9 +114,14 @@ The Eclipse Public License (EPL) is an open source software license used by the 
 
 The Eclipse Public License is designed to be a business-friendly software license and has weaker provisions than contemporary copyleft licenses, such as the GNU General Public License (GPL). The recipient of EPL-licensed programs may use, modify, copy and distribute the work and modified versions, in some cases they are required to release their own changes.
 
+## Mozilla License v2.0
+
+The MPL fully complies with the Open Source Initiative (OSI) definition of open source software and with the four freedoms of free software set forth by the Free Software Foundation (FSF). However, the MPL leaves the way open for a possible non-free reuse of the software, if the user so wishes, without restricting the reuse of the code or relicensing under the same license.
+
 ***
 ### References
 * [link](https://medium.com/trainingcenter/tudo-o-que-voc%C3%AA-precisa-saber-sobre-as-licen%C3%A7as-de-projetos-open-source-aaccbe23e50d)
 * [link](https://www.boost.org/users/license.html)
 * [link](https://creativecommons.org/publicdomain/zero/1.0/)
 * [link](https://es.wikipedia.org/wiki/Eclipse_Public_License)
+* [link](https://es.wikipedia.org/wiki/Mozilla_Public_License)
