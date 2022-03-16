@@ -98,6 +98,11 @@ Finally, the MIT license. Of all those we have listed, it is the most permissive
 
 One great project with this license is the [Training Center](https://github.com/training-center)! Besides that there are other famous ones like: [jQuery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/) and [Rails](http://rubyonrails.org/).
 
+## Boost License
+
+How is the Boost license different from the [GNU General Public License](https://opensource.org/licenses/gpl-license.php) (GPL)? The Boost license permits the creation of derivative works for any use with no legal requirement to release your source code. Other differences include Boost not requiring reproduction of copyright messages for object code redistribution, and the fact that the Boost license is not "viral": if you distribute your own code along with some Boost code, the Boost license applies only to the Boost code (and modified versions thereof); you are free to license your own code under any terms you like. The GPL is also much longer, and thus may be harder to understand.
+
 ***
 ### References
 * [link](https://medium.com/trainingcenter/tudo-o-que-voc%C3%AA-precisa-saber-sobre-as-licen%C3%A7as-de-projetos-open-source-aaccbe23e50d)
+* [link](https://www.boost.org/users/license.html)
