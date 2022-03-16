@@ -118,6 +118,10 @@ The Eclipse Public License is designed to be a business-friendly software licens
 
 The MPL fully complies with the Open Source Initiative (OSI) definition of open source software and with the four freedoms of free software set forth by the Free Software Foundation (FSF). However, the MPL leaves the way open for a possible non-free reuse of the software, if the user so wishes, without restricting the reuse of the code or relicensing under the same license.
 
+## The Unlicense
+
+The Unlicense is a template for disclaiming copyright monopoly interest in software you've written; in other words, it is a template for dedicating your software to the public domain. It combines a copyright waiver patterned after the very successful public domain SQLite project with the no-warranty statement from the widely-used MIT/X11 license.
+
 ***
 ### References
 * [link](https://medium.com/trainingcenter/tudo-o-que-voc%C3%AA-precisa-saber-sobre-as-licen%C3%A7as-de-projetos-open-source-aaccbe23e50d)
@@ -125,3 +129,4 @@ The MPL fully complies with the Open Source Initiative (OSI) definition of open 
 * [link](https://creativecommons.org/publicdomain/zero/1.0/)
 * [link](https://es.wikipedia.org/wiki/Eclipse_Public_License)
 * [link](https://es.wikipedia.org/wiki/Mozilla_Public_License)
+* [link](https://unlicense.org/)
