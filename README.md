@@ -106,9 +106,17 @@ How is the Boost license different from the [GNU General Public License](https:/
 
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+## Eclipse Public v2.0
+
+The Eclipse Public License (EPL) is an open source software license used by the Eclipse Foundation for its software. It replaces the Common Public License (CPL) and removes certain conditions relating to patent litigation.
+
+The Eclipse Public License is designed to be a business-friendly software license and has weaker provisions than contemporary copyleft licenses, such as the GNU General Public License (GPL). The recipient of EPL-licensed programs may use, modify, copy and distribute the work and modified versions, in some cases they are required to release their own changes.
 
 ***
 ### References
 * [link](https://medium.com/trainingcenter/tudo-o-que-voc%C3%AA-precisa-saber-sobre-as-licen%C3%A7as-de-projetos-open-source-aaccbe23e50d)
 * [link](https://www.boost.org/users/license.html)
+* [link](https://creativecommons.org/publicdomain/zero/1.0/)
+* [link](https://es.wikipedia.org/wiki/Eclipse_Public_License)
