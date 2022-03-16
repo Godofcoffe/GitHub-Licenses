@@ -102,6 +102,12 @@ One great project with this license is the [Training Center](https://github.com/
 
 How is the Boost license different from the [GNU General Public License](https://opensource.org/licenses/gpl-license.php) (GPL)? The Boost license permits the creation of derivative works for any use with no legal requirement to release your source code. Other differences include Boost not requiring reproduction of copyright messages for object code redistribution, and the fact that the Boost license is not "viral": if you distribute your own code along with some Boost code, the Boost license applies only to the Boost code (and modified versions thereof); you are free to license your own code under any terms you like. The GPL is also much longer, and thus may be harder to understand.
 
+## Creative Commons zero v1.0 universal
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission
+
 ***
 ### References
 * [link](https://medium.com/trainingcenter/tudo-o-que-voc%C3%AA-precisa-saber-sobre-as-licen%C3%A7as-de-projetos-open-source-aaccbe23e50d)
